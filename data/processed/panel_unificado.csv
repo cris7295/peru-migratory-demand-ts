@@ -1,0 +1,1376 @@
+ds,y,tipo_tramite,sede,regimen
+2025-01-01,500,cambio_calidad,AREQUIPA,pre_2026
+2025-02-01,414,cambio_calidad,AREQUIPA,pre_2026
+2025-03-01,415,cambio_calidad,AREQUIPA,pre_2026
+2025-04-01,307,cambio_calidad,AREQUIPA,pre_2026
+2025-05-01,416,cambio_calidad,AREQUIPA,pre_2026
+2025-06-01,276,cambio_calidad,AREQUIPA,pre_2026
+2025-07-01,258,cambio_calidad,AREQUIPA,pre_2026
+2025-08-01,258,cambio_calidad,AREQUIPA,pre_2026
+2025-09-01,257,cambio_calidad,AREQUIPA,pre_2026
+2025-10-01,307,cambio_calidad,AREQUIPA,pre_2026
+2025-11-01,269,cambio_calidad,AREQUIPA,pre_2026
+2025-12-01,304,cambio_calidad,AREQUIPA,pre_2026
+2026-01-01,226,cambio_calidad,AREQUIPA,post_2026
+2026-02-01,208,cambio_calidad,AREQUIPA,post_2026
+2026-03-01,272,cambio_calidad,AREQUIPA,post_2026
+2026-04-01,222,cambio_calidad,AREQUIPA,post_2026
+2026-05-01,225,cambio_calidad,AREQUIPA,post_2026
+2026-06-01,225,cambio_calidad,AREQUIPA,post_2026
+2026-07-01,210,cambio_calidad,AREQUIPA,post_2026
+2026-08-01,212,cambio_calidad,AREQUIPA,post_2026
+2025-01-01,304,cambio_calidad,CHICLAYO,pre_2026
+2025-02-01,340,cambio_calidad,CHICLAYO,pre_2026
+2025-03-01,357,cambio_calidad,CHICLAYO,pre_2026
+2025-04-01,348,cambio_calidad,CHICLAYO,pre_2026
+2025-05-01,335,cambio_calidad,CHICLAYO,pre_2026
+2025-06-01,429,cambio_calidad,CHICLAYO,pre_2026
+2025-07-01,414,cambio_calidad,CHICLAYO,pre_2026
+2025-08-01,319,cambio_calidad,CHICLAYO,pre_2026
+2025-09-01,272,cambio_calidad,CHICLAYO,pre_2026
+2025-10-01,299,cambio_calidad,CHICLAYO,pre_2026
+2025-11-01,305,cambio_calidad,CHICLAYO,pre_2026
+2025-12-01,417,cambio_calidad,CHICLAYO,pre_2026
+2026-01-01,213,cambio_calidad,CHICLAYO,post_2026
+2026-02-01,250,cambio_calidad,CHICLAYO,post_2026
+2026-03-01,240,cambio_calidad,CHICLAYO,post_2026
+2026-04-01,326,cambio_calidad,CHICLAYO,post_2026
+2026-05-01,323,cambio_calidad,CHICLAYO,post_2026
+2026-06-01,362,cambio_calidad,CHICLAYO,post_2026
+2026-07-01,302,cambio_calidad,CHICLAYO,post_2026
+2026-08-01,305,cambio_calidad,CHICLAYO,post_2026
+2025-01-01,274,cambio_calidad,CHIMBOTE,pre_2026
+2025-02-01,299,cambio_calidad,CHIMBOTE,pre_2026
+2025-03-01,262,cambio_calidad,CHIMBOTE,pre_2026
+2025-04-01,283,cambio_calidad,CHIMBOTE,pre_2026
+2025-05-01,230,cambio_calidad,CHIMBOTE,pre_2026
+2025-06-01,354,cambio_calidad,CHIMBOTE,pre_2026
+2025-07-01,185,cambio_calidad,CHIMBOTE,pre_2026
+2025-08-01,167,cambio_calidad,CHIMBOTE,pre_2026
+2025-09-01,183,cambio_calidad,CHIMBOTE,pre_2026
+2025-10-01,196,cambio_calidad,CHIMBOTE,pre_2026
+2025-11-01,223,cambio_calidad,CHIMBOTE,pre_2026
+2025-12-01,270,cambio_calidad,CHIMBOTE,pre_2026
+2026-01-01,115,cambio_calidad,CHIMBOTE,post_2026
+2026-02-01,119,cambio_calidad,CHIMBOTE,post_2026
+2026-03-01,133,cambio_calidad,CHIMBOTE,post_2026
+2026-04-01,131,cambio_calidad,CHIMBOTE,post_2026
+2026-05-01,108,cambio_calidad,CHIMBOTE,post_2026
+2026-06-01,193,cambio_calidad,CHIMBOTE,post_2026
+2026-07-01,172,cambio_calidad,CHIMBOTE,post_2026
+2026-08-01,148,cambio_calidad,CHIMBOTE,post_2026
+2025-01-01,243,cambio_calidad,CUSCO,pre_2026
+2025-02-01,212,cambio_calidad,CUSCO,pre_2026
+2025-03-01,248,cambio_calidad,CUSCO,pre_2026
+2025-04-01,267,cambio_calidad,CUSCO,pre_2026
+2025-05-01,291,cambio_calidad,CUSCO,pre_2026
+2025-06-01,190,cambio_calidad,CUSCO,pre_2026
+2025-07-01,178,cambio_calidad,CUSCO,pre_2026
+2025-08-01,180,cambio_calidad,CUSCO,pre_2026
+2025-09-01,204,cambio_calidad,CUSCO,pre_2026
+2025-10-01,252,cambio_calidad,CUSCO,pre_2026
+2025-11-01,209,cambio_calidad,CUSCO,pre_2026
+2025-12-01,205,cambio_calidad,CUSCO,pre_2026
+2026-01-01,194,cambio_calidad,CUSCO,post_2026
+2026-02-01,214,cambio_calidad,CUSCO,post_2026
+2026-03-01,216,cambio_calidad,CUSCO,post_2026
+2026-04-01,202,cambio_calidad,CUSCO,post_2026
+2026-05-01,181,cambio_calidad,CUSCO,post_2026
+2026-06-01,168,cambio_calidad,CUSCO,post_2026
+2026-07-01,198,cambio_calidad,CUSCO,post_2026
+2026-08-01,231,cambio_calidad,CUSCO,post_2026
+2025-01-01,120,cambio_calidad,HUANCAYO,pre_2026
+2025-02-01,119,cambio_calidad,HUANCAYO,pre_2026
+2025-03-01,109,cambio_calidad,HUANCAYO,pre_2026
+2025-04-01,75,cambio_calidad,HUANCAYO,pre_2026
+2025-05-01,111,cambio_calidad,HUANCAYO,pre_2026
+2025-06-01,127,cambio_calidad,HUANCAYO,pre_2026
+2025-07-01,75,cambio_calidad,HUANCAYO,pre_2026
+2025-08-01,78,cambio_calidad,HUANCAYO,pre_2026
+2025-09-01,79,cambio_calidad,HUANCAYO,pre_2026
+2025-10-01,119,cambio_calidad,HUANCAYO,pre_2026
+2025-11-01,93,cambio_calidad,HUANCAYO,pre_2026
+2025-12-01,102,cambio_calidad,HUANCAYO,pre_2026
+2026-01-01,56,cambio_calidad,HUANCAYO,post_2026
+2026-02-01,61,cambio_calidad,HUANCAYO,post_2026
+2026-03-01,83,cambio_calidad,HUANCAYO,post_2026
+2026-04-01,71,cambio_calidad,HUANCAYO,post_2026
+2026-05-01,75,cambio_calidad,HUANCAYO,post_2026
+2026-06-01,65,cambio_calidad,HUANCAYO,post_2026
+2026-07-01,102,cambio_calidad,HUANCAYO,post_2026
+2026-08-01,83,cambio_calidad,HUANCAYO,post_2026
+2025-01-01,206,cambio_calidad,ICA,pre_2026
+2025-02-01,219,cambio_calidad,ICA,pre_2026
+2025-03-01,256,cambio_calidad,ICA,pre_2026
+2025-04-01,306,cambio_calidad,ICA,pre_2026
+2025-05-01,275,cambio_calidad,ICA,pre_2026
+2025-06-01,478,cambio_calidad,ICA,pre_2026
+2025-07-01,306,cambio_calidad,ICA,pre_2026
+2025-08-01,237,cambio_calidad,ICA,pre_2026
+2025-09-01,280,cambio_calidad,ICA,pre_2026
+2025-10-01,338,cambio_calidad,ICA,pre_2026
+2025-11-01,477,cambio_calidad,ICA,pre_2026
+2025-12-01,524,cambio_calidad,ICA,pre_2026
+2026-01-01,194,cambio_calidad,ICA,post_2026
+2026-02-01,249,cambio_calidad,ICA,post_2026
+2026-03-01,195,cambio_calidad,ICA,post_2026
+2026-04-01,197,cambio_calidad,ICA,post_2026
+2026-05-01,224,cambio_calidad,ICA,post_2026
+2026-06-01,242,cambio_calidad,ICA,post_2026
+2026-07-01,302,cambio_calidad,ICA,post_2026
+2026-08-01,228,cambio_calidad,ICA,post_2026
+2025-01-01,54,cambio_calidad,ILO,pre_2026
+2025-02-01,44,cambio_calidad,ILO,pre_2026
+2025-03-01,37,cambio_calidad,ILO,pre_2026
+2025-04-01,54,cambio_calidad,ILO,pre_2026
+2025-05-01,47,cambio_calidad,ILO,pre_2026
+2025-06-01,47,cambio_calidad,ILO,pre_2026
+2025-07-01,46,cambio_calidad,ILO,pre_2026
+2025-08-01,43,cambio_calidad,ILO,pre_2026
+2025-09-01,39,cambio_calidad,ILO,pre_2026
+2025-10-01,54,cambio_calidad,ILO,pre_2026
+2025-11-01,45,cambio_calidad,ILO,pre_2026
+2025-12-01,51,cambio_calidad,ILO,pre_2026
+2026-01-01,41,cambio_calidad,ILO,post_2026
+2026-02-01,43,cambio_calidad,ILO,post_2026
+2026-03-01,32,cambio_calidad,ILO,post_2026
+2026-04-01,34,cambio_calidad,ILO,post_2026
+2026-05-01,35,cambio_calidad,ILO,post_2026
+2026-06-01,26,cambio_calidad,ILO,post_2026
+2026-07-01,32,cambio_calidad,ILO,post_2026
+2026-08-01,41,cambio_calidad,ILO,post_2026
+2025-01-01,103,cambio_calidad,IQUITOS,pre_2026
+2025-02-01,130,cambio_calidad,IQUITOS,pre_2026
+2025-03-01,165,cambio_calidad,IQUITOS,pre_2026
+2025-04-01,96,cambio_calidad,IQUITOS,pre_2026
+2025-05-01,129,cambio_calidad,IQUITOS,pre_2026
+2025-06-01,180,cambio_calidad,IQUITOS,pre_2026
+2025-07-01,135,cambio_calidad,IQUITOS,pre_2026
+2025-08-01,150,cambio_calidad,IQUITOS,pre_2026
+2025-09-01,161,cambio_calidad,IQUITOS,pre_2026
+2025-10-01,121,cambio_calidad,IQUITOS,pre_2026
+2025-11-01,149,cambio_calidad,IQUITOS,pre_2026
+2025-12-01,103,cambio_calidad,IQUITOS,pre_2026
+2026-01-01,113,cambio_calidad,IQUITOS,post_2026
+2026-02-01,140,cambio_calidad,IQUITOS,post_2026
+2026-03-01,155,cambio_calidad,IQUITOS,post_2026
+2026-04-01,187,cambio_calidad,IQUITOS,post_2026
+2026-05-01,131,cambio_calidad,IQUITOS,post_2026
+2026-06-01,173,cambio_calidad,IQUITOS,post_2026
+2026-07-01,165,cambio_calidad,IQUITOS,post_2026
+2026-08-01,202,cambio_calidad,IQUITOS,post_2026
+2025-01-01,303,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-02-01,237,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-03-01,287,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-04-01,258,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-05-01,200,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-06-01,182,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-07-01,586,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-08-01,171,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-09-01,194,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-10-01,257,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-11-01,265,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2025-12-01,304,cambio_calidad,JEFATURA ZONAL CALLAO,pre_2026
+2026-01-01,162,cambio_calidad,JEFATURA ZONAL CALLAO,post_2026
+2026-02-01,135,cambio_calidad,JEFATURA ZONAL CALLAO,post_2026
+2026-03-01,200,cambio_calidad,JEFATURA ZONAL CALLAO,post_2026
+2026-04-01,121,cambio_calidad,JEFATURA ZONAL CALLAO,post_2026
+2026-05-01,178,cambio_calidad,JEFATURA ZONAL CALLAO,post_2026
+2026-06-01,115,cambio_calidad,JEFATURA ZONAL CALLAO,post_2026
+2026-07-01,140,cambio_calidad,JEFATURA ZONAL CALLAO,post_2026
+2026-08-01,149,cambio_calidad,JEFATURA ZONAL CALLAO,post_2026
+2025-01-01,8317,cambio_calidad,LIMA,pre_2026
+2025-02-01,6383,cambio_calidad,LIMA,pre_2026
+2025-03-01,6707,cambio_calidad,LIMA,pre_2026
+2025-04-01,5752,cambio_calidad,LIMA,pre_2026
+2025-05-01,5201,cambio_calidad,LIMA,pre_2026
+2025-06-01,4928,cambio_calidad,LIMA,pre_2026
+2025-07-01,5116,cambio_calidad,LIMA,pre_2026
+2025-08-01,4198,cambio_calidad,LIMA,pre_2026
+2025-09-01,4991,cambio_calidad,LIMA,pre_2026
+2025-10-01,5328,cambio_calidad,LIMA,pre_2026
+2025-11-01,5513,cambio_calidad,LIMA,pre_2026
+2025-12-01,7920,cambio_calidad,LIMA,pre_2026
+2026-01-01,3284,cambio_calidad,LIMA,post_2026
+2026-02-01,3272,cambio_calidad,LIMA,post_2026
+2026-03-01,3307,cambio_calidad,LIMA,post_2026
+2026-04-01,2862,cambio_calidad,LIMA,post_2026
+2026-05-01,3087,cambio_calidad,LIMA,post_2026
+2026-06-01,3080,cambio_calidad,LIMA,post_2026
+2026-07-01,3262,cambio_calidad,LIMA,post_2026
+2026-08-01,2825,cambio_calidad,LIMA,post_2026
+2025-01-01,551,cambio_calidad,PIURA,pre_2026
+2025-02-01,391,cambio_calidad,PIURA,pre_2026
+2025-03-01,382,cambio_calidad,PIURA,pre_2026
+2025-04-01,328,cambio_calidad,PIURA,pre_2026
+2025-05-01,379,cambio_calidad,PIURA,pre_2026
+2025-06-01,502,cambio_calidad,PIURA,pre_2026
+2025-07-01,370,cambio_calidad,PIURA,pre_2026
+2025-08-01,380,cambio_calidad,PIURA,pre_2026
+2025-09-01,331,cambio_calidad,PIURA,pre_2026
+2025-10-01,413,cambio_calidad,PIURA,pre_2026
+2025-11-01,371,cambio_calidad,PIURA,pre_2026
+2025-12-01,523,cambio_calidad,PIURA,pre_2026
+2026-01-01,278,cambio_calidad,PIURA,post_2026
+2026-02-01,309,cambio_calidad,PIURA,post_2026
+2026-03-01,316,cambio_calidad,PIURA,post_2026
+2026-04-01,324,cambio_calidad,PIURA,post_2026
+2026-05-01,279,cambio_calidad,PIURA,post_2026
+2026-06-01,322,cambio_calidad,PIURA,post_2026
+2026-07-01,344,cambio_calidad,PIURA,post_2026
+2026-08-01,366,cambio_calidad,PIURA,post_2026
+2025-01-01,121,cambio_calidad,PTO MALDON.,pre_2026
+2025-02-01,83,cambio_calidad,PTO MALDON.,pre_2026
+2025-03-01,61,cambio_calidad,PTO MALDON.,pre_2026
+2025-04-01,77,cambio_calidad,PTO MALDON.,pre_2026
+2025-05-01,94,cambio_calidad,PTO MALDON.,pre_2026
+2025-06-01,112,cambio_calidad,PTO MALDON.,pre_2026
+2025-07-01,60,cambio_calidad,PTO MALDON.,pre_2026
+2025-08-01,69,cambio_calidad,PTO MALDON.,pre_2026
+2025-09-01,64,cambio_calidad,PTO MALDON.,pre_2026
+2025-10-01,103,cambio_calidad,PTO MALDON.,pre_2026
+2025-11-01,106,cambio_calidad,PTO MALDON.,pre_2026
+2025-12-01,77,cambio_calidad,PTO MALDON.,pre_2026
+2026-01-01,72,cambio_calidad,PTO MALDON.,post_2026
+2026-02-01,81,cambio_calidad,PTO MALDON.,post_2026
+2026-03-01,74,cambio_calidad,PTO MALDON.,post_2026
+2026-04-01,97,cambio_calidad,PTO MALDON.,post_2026
+2026-05-01,67,cambio_calidad,PTO MALDON.,post_2026
+2026-06-01,71,cambio_calidad,PTO MALDON.,post_2026
+2026-07-01,102,cambio_calidad,PTO MALDON.,post_2026
+2026-08-01,103,cambio_calidad,PTO MALDON.,post_2026
+2025-01-01,130,cambio_calidad,PUCALLPA,pre_2026
+2025-02-01,146,cambio_calidad,PUCALLPA,pre_2026
+2025-03-01,140,cambio_calidad,PUCALLPA,pre_2026
+2025-04-01,126,cambio_calidad,PUCALLPA,pre_2026
+2025-05-01,125,cambio_calidad,PUCALLPA,pre_2026
+2025-06-01,152,cambio_calidad,PUCALLPA,pre_2026
+2025-07-01,105,cambio_calidad,PUCALLPA,pre_2026
+2025-08-01,140,cambio_calidad,PUCALLPA,pre_2026
+2025-09-01,103,cambio_calidad,PUCALLPA,pre_2026
+2025-10-01,117,cambio_calidad,PUCALLPA,pre_2026
+2025-11-01,112,cambio_calidad,PUCALLPA,pre_2026
+2025-12-01,141,cambio_calidad,PUCALLPA,pre_2026
+2026-01-01,126,cambio_calidad,PUCALLPA,post_2026
+2026-02-01,102,cambio_calidad,PUCALLPA,post_2026
+2026-03-01,144,cambio_calidad,PUCALLPA,post_2026
+2026-04-01,169,cambio_calidad,PUCALLPA,post_2026
+2026-05-01,134,cambio_calidad,PUCALLPA,post_2026
+2026-06-01,147,cambio_calidad,PUCALLPA,post_2026
+2026-07-01,126,cambio_calidad,PUCALLPA,post_2026
+2026-08-01,148,cambio_calidad,PUCALLPA,post_2026
+2025-01-01,152,cambio_calidad,PUNO,pre_2026
+2025-02-01,95,cambio_calidad,PUNO,pre_2026
+2025-03-01,66,cambio_calidad,PUNO,pre_2026
+2025-04-01,84,cambio_calidad,PUNO,pre_2026
+2025-05-01,92,cambio_calidad,PUNO,pre_2026
+2025-06-01,105,cambio_calidad,PUNO,pre_2026
+2025-07-01,88,cambio_calidad,PUNO,pre_2026
+2025-08-01,50,cambio_calidad,PUNO,pre_2026
+2025-09-01,75,cambio_calidad,PUNO,pre_2026
+2025-10-01,81,cambio_calidad,PUNO,pre_2026
+2025-11-01,56,cambio_calidad,PUNO,pre_2026
+2025-12-01,91,cambio_calidad,PUNO,pre_2026
+2026-01-01,50,cambio_calidad,PUNO,post_2026
+2026-02-01,52,cambio_calidad,PUNO,post_2026
+2026-03-01,84,cambio_calidad,PUNO,post_2026
+2026-04-01,75,cambio_calidad,PUNO,post_2026
+2026-05-01,54,cambio_calidad,PUNO,post_2026
+2026-06-01,60,cambio_calidad,PUNO,post_2026
+2026-07-01,64,cambio_calidad,PUNO,post_2026
+2026-08-01,88,cambio_calidad,PUNO,post_2026
+2025-01-01,105,cambio_calidad,TACNA,pre_2026
+2025-02-01,95,cambio_calidad,TACNA,pre_2026
+2025-03-01,140,cambio_calidad,TACNA,pre_2026
+2025-04-01,124,cambio_calidad,TACNA,pre_2026
+2025-05-01,120,cambio_calidad,TACNA,pre_2026
+2025-06-01,190,cambio_calidad,TACNA,pre_2026
+2025-07-01,129,cambio_calidad,TACNA,pre_2026
+2025-08-01,138,cambio_calidad,TACNA,pre_2026
+2025-09-01,100,cambio_calidad,TACNA,pre_2026
+2025-10-01,145,cambio_calidad,TACNA,pre_2026
+2025-11-01,172,cambio_calidad,TACNA,pre_2026
+2025-12-01,142,cambio_calidad,TACNA,pre_2026
+2026-01-01,154,cambio_calidad,TACNA,post_2026
+2026-02-01,97,cambio_calidad,TACNA,post_2026
+2026-03-01,126,cambio_calidad,TACNA,post_2026
+2026-04-01,97,cambio_calidad,TACNA,post_2026
+2026-05-01,111,cambio_calidad,TACNA,post_2026
+2026-06-01,102,cambio_calidad,TACNA,post_2026
+2026-07-01,110,cambio_calidad,TACNA,post_2026
+2026-08-01,133,cambio_calidad,TACNA,post_2026
+2025-01-01,77,cambio_calidad,TARAPOTO,pre_2026
+2025-02-01,87,cambio_calidad,TARAPOTO,pre_2026
+2025-03-01,108,cambio_calidad,TARAPOTO,pre_2026
+2025-04-01,73,cambio_calidad,TARAPOTO,pre_2026
+2025-05-01,91,cambio_calidad,TARAPOTO,pre_2026
+2025-06-01,88,cambio_calidad,TARAPOTO,pre_2026
+2025-07-01,105,cambio_calidad,TARAPOTO,pre_2026
+2025-08-01,92,cambio_calidad,TARAPOTO,pre_2026
+2025-09-01,81,cambio_calidad,TARAPOTO,pre_2026
+2025-10-01,84,cambio_calidad,TARAPOTO,pre_2026
+2025-11-01,66,cambio_calidad,TARAPOTO,pre_2026
+2025-12-01,75,cambio_calidad,TARAPOTO,pre_2026
+2026-01-01,61,cambio_calidad,TARAPOTO,post_2026
+2026-02-01,74,cambio_calidad,TARAPOTO,post_2026
+2026-03-01,78,cambio_calidad,TARAPOTO,post_2026
+2026-04-01,75,cambio_calidad,TARAPOTO,post_2026
+2026-05-01,83,cambio_calidad,TARAPOTO,post_2026
+2026-06-01,83,cambio_calidad,TARAPOTO,post_2026
+2026-07-01,86,cambio_calidad,TARAPOTO,post_2026
+2026-08-01,89,cambio_calidad,TARAPOTO,post_2026
+2025-01-01,676,cambio_calidad,TRUJILLO,pre_2026
+2025-02-01,610,cambio_calidad,TRUJILLO,pre_2026
+2025-03-01,555,cambio_calidad,TRUJILLO,pre_2026
+2025-04-01,465,cambio_calidad,TRUJILLO,pre_2026
+2025-05-01,394,cambio_calidad,TRUJILLO,pre_2026
+2025-06-01,588,cambio_calidad,TRUJILLO,pre_2026
+2025-07-01,560,cambio_calidad,TRUJILLO,pre_2026
+2025-08-01,496,cambio_calidad,TRUJILLO,pre_2026
+2025-09-01,513,cambio_calidad,TRUJILLO,pre_2026
+2025-10-01,573,cambio_calidad,TRUJILLO,pre_2026
+2025-11-01,634,cambio_calidad,TRUJILLO,pre_2026
+2025-12-01,704,cambio_calidad,TRUJILLO,pre_2026
+2026-01-01,388,cambio_calidad,TRUJILLO,post_2026
+2026-02-01,372,cambio_calidad,TRUJILLO,post_2026
+2026-03-01,324,cambio_calidad,TRUJILLO,post_2026
+2026-04-01,237,cambio_calidad,TRUJILLO,post_2026
+2026-05-01,307,cambio_calidad,TRUJILLO,post_2026
+2026-06-01,270,cambio_calidad,TRUJILLO,post_2026
+2026-07-01,291,cambio_calidad,TRUJILLO,post_2026
+2026-08-01,259,cambio_calidad,TRUJILLO,post_2026
+2025-01-01,214,cambio_calidad,TUMBES,pre_2026
+2025-02-01,132,cambio_calidad,TUMBES,pre_2026
+2025-03-01,175,cambio_calidad,TUMBES,pre_2026
+2025-04-01,90,cambio_calidad,TUMBES,pre_2026
+2025-05-01,120,cambio_calidad,TUMBES,pre_2026
+2025-06-01,162,cambio_calidad,TUMBES,pre_2026
+2025-07-01,167,cambio_calidad,TUMBES,pre_2026
+2025-08-01,132,cambio_calidad,TUMBES,pre_2026
+2025-09-01,167,cambio_calidad,TUMBES,pre_2026
+2025-10-01,191,cambio_calidad,TUMBES,pre_2026
+2025-11-01,251,cambio_calidad,TUMBES,pre_2026
+2025-12-01,215,cambio_calidad,TUMBES,pre_2026
+2026-01-01,145,cambio_calidad,TUMBES,post_2026
+2026-02-01,158,cambio_calidad,TUMBES,post_2026
+2026-03-01,158,cambio_calidad,TUMBES,post_2026
+2026-04-01,121,cambio_calidad,TUMBES,post_2026
+2026-05-01,121,cambio_calidad,TUMBES,post_2026
+2026-06-01,131,cambio_calidad,TUMBES,post_2026
+2026-07-01,143,cambio_calidad,TUMBES,post_2026
+2026-08-01,123,cambio_calidad,TUMBES,post_2026
+2025-01-01,321,carnet_extranjeria,AREQUIPA,pre_2026
+2025-02-01,320,carnet_extranjeria,AREQUIPA,pre_2026
+2025-03-01,279,carnet_extranjeria,AREQUIPA,pre_2026
+2025-04-01,245,carnet_extranjeria,AREQUIPA,pre_2026
+2025-05-01,250,carnet_extranjeria,AREQUIPA,pre_2026
+2025-06-01,248,carnet_extranjeria,AREQUIPA,pre_2026
+2025-07-01,217,carnet_extranjeria,AREQUIPA,pre_2026
+2025-08-01,228,carnet_extranjeria,AREQUIPA,pre_2026
+2025-09-01,318,carnet_extranjeria,AREQUIPA,pre_2026
+2025-10-01,228,carnet_extranjeria,AREQUIPA,pre_2026
+2025-11-01,202,carnet_extranjeria,AREQUIPA,pre_2026
+2025-12-01,228,carnet_extranjeria,AREQUIPA,pre_2026
+2026-01-01,274,carnet_extranjeria,AREQUIPA,post_2026
+2026-02-01,219,carnet_extranjeria,AREQUIPA,post_2026
+2026-03-01,295,carnet_extranjeria,AREQUIPA,post_2026
+2026-04-01,262,carnet_extranjeria,AREQUIPA,post_2026
+2026-05-01,272,carnet_extranjeria,AREQUIPA,post_2026
+2026-06-01,277,carnet_extranjeria,AREQUIPA,post_2026
+2026-07-01,238,carnet_extranjeria,AREQUIPA,post_2026
+2026-08-01,215,carnet_extranjeria,AREQUIPA,post_2026
+2025-01-01,103,carnet_extranjeria,CHICLAYO,pre_2026
+2025-02-01,151,carnet_extranjeria,CHICLAYO,pre_2026
+2025-03-01,105,carnet_extranjeria,CHICLAYO,pre_2026
+2025-04-01,129,carnet_extranjeria,CHICLAYO,pre_2026
+2025-05-01,105,carnet_extranjeria,CHICLAYO,pre_2026
+2025-06-01,143,carnet_extranjeria,CHICLAYO,pre_2026
+2025-07-01,110,carnet_extranjeria,CHICLAYO,pre_2026
+2025-08-01,120,carnet_extranjeria,CHICLAYO,pre_2026
+2025-09-01,133,carnet_extranjeria,CHICLAYO,pre_2026
+2025-10-01,116,carnet_extranjeria,CHICLAYO,pre_2026
+2025-11-01,107,carnet_extranjeria,CHICLAYO,pre_2026
+2025-12-01,129,carnet_extranjeria,CHICLAYO,pre_2026
+2026-01-01,117,carnet_extranjeria,CHICLAYO,post_2026
+2026-02-01,123,carnet_extranjeria,CHICLAYO,post_2026
+2026-03-01,125,carnet_extranjeria,CHICLAYO,post_2026
+2026-04-01,125,carnet_extranjeria,CHICLAYO,post_2026
+2026-05-01,124,carnet_extranjeria,CHICLAYO,post_2026
+2026-06-01,139,carnet_extranjeria,CHICLAYO,post_2026
+2026-07-01,118,carnet_extranjeria,CHICLAYO,post_2026
+2026-08-01,119,carnet_extranjeria,CHICLAYO,post_2026
+2025-01-01,83,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-02-01,92,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-03-01,88,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-04-01,100,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-05-01,66,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-06-01,82,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-07-01,70,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-08-01,93,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-09-01,90,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-10-01,106,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-11-01,94,carnet_extranjeria,CHIMBOTE,pre_2026
+2025-12-01,82,carnet_extranjeria,CHIMBOTE,pre_2026
+2026-01-01,91,carnet_extranjeria,CHIMBOTE,post_2026
+2026-02-01,94,carnet_extranjeria,CHIMBOTE,post_2026
+2026-03-01,105,carnet_extranjeria,CHIMBOTE,post_2026
+2026-04-01,89,carnet_extranjeria,CHIMBOTE,post_2026
+2026-05-01,70,carnet_extranjeria,CHIMBOTE,post_2026
+2026-06-01,75,carnet_extranjeria,CHIMBOTE,post_2026
+2026-07-01,90,carnet_extranjeria,CHIMBOTE,post_2026
+2026-08-01,64,carnet_extranjeria,CHIMBOTE,post_2026
+2025-01-01,92,carnet_extranjeria,CUSCO,pre_2026
+2025-02-01,78,carnet_extranjeria,CUSCO,pre_2026
+2025-03-01,96,carnet_extranjeria,CUSCO,pre_2026
+2025-04-01,112,carnet_extranjeria,CUSCO,pre_2026
+2025-05-01,78,carnet_extranjeria,CUSCO,pre_2026
+2025-06-01,97,carnet_extranjeria,CUSCO,pre_2026
+2025-07-01,88,carnet_extranjeria,CUSCO,pre_2026
+2025-08-01,106,carnet_extranjeria,CUSCO,pre_2026
+2025-09-01,113,carnet_extranjeria,CUSCO,pre_2026
+2025-10-01,147,carnet_extranjeria,CUSCO,pre_2026
+2025-11-01,96,carnet_extranjeria,CUSCO,pre_2026
+2025-12-01,94,carnet_extranjeria,CUSCO,pre_2026
+2026-01-01,127,carnet_extranjeria,CUSCO,post_2026
+2026-02-01,109,carnet_extranjeria,CUSCO,post_2026
+2026-03-01,117,carnet_extranjeria,CUSCO,post_2026
+2026-04-01,129,carnet_extranjeria,CUSCO,post_2026
+2026-05-01,125,carnet_extranjeria,CUSCO,post_2026
+2026-06-01,103,carnet_extranjeria,CUSCO,post_2026
+2026-07-01,115,carnet_extranjeria,CUSCO,post_2026
+2026-08-01,95,carnet_extranjeria,CUSCO,post_2026
+2025-01-01,69,carnet_extranjeria,HUANCAYO,pre_2026
+2025-02-01,49,carnet_extranjeria,HUANCAYO,pre_2026
+2025-03-01,61,carnet_extranjeria,HUANCAYO,pre_2026
+2025-04-01,62,carnet_extranjeria,HUANCAYO,pre_2026
+2025-05-01,54,carnet_extranjeria,HUANCAYO,pre_2026
+2025-06-01,57,carnet_extranjeria,HUANCAYO,pre_2026
+2025-07-01,58,carnet_extranjeria,HUANCAYO,pre_2026
+2025-08-01,79,carnet_extranjeria,HUANCAYO,pre_2026
+2025-09-01,82,carnet_extranjeria,HUANCAYO,pre_2026
+2025-10-01,72,carnet_extranjeria,HUANCAYO,pre_2026
+2025-11-01,79,carnet_extranjeria,HUANCAYO,pre_2026
+2025-12-01,50,carnet_extranjeria,HUANCAYO,pre_2026
+2026-01-01,62,carnet_extranjeria,HUANCAYO,post_2026
+2026-02-01,69,carnet_extranjeria,HUANCAYO,post_2026
+2026-03-01,65,carnet_extranjeria,HUANCAYO,post_2026
+2026-04-01,63,carnet_extranjeria,HUANCAYO,post_2026
+2026-05-01,54,carnet_extranjeria,HUANCAYO,post_2026
+2026-06-01,54,carnet_extranjeria,HUANCAYO,post_2026
+2026-07-01,46,carnet_extranjeria,HUANCAYO,post_2026
+2026-08-01,37,carnet_extranjeria,HUANCAYO,post_2026
+2025-01-01,23,carnet_extranjeria,ICA,pre_2026
+2025-02-01,95,carnet_extranjeria,ICA,pre_2026
+2025-03-01,150,carnet_extranjeria,ICA,pre_2026
+2025-04-01,119,carnet_extranjeria,ICA,pre_2026
+2025-05-01,140,carnet_extranjeria,ICA,pre_2026
+2025-06-01,128,carnet_extranjeria,ICA,pre_2026
+2025-07-01,183,carnet_extranjeria,ICA,pre_2026
+2025-08-01,264,carnet_extranjeria,ICA,pre_2026
+2025-09-01,192,carnet_extranjeria,ICA,pre_2026
+2025-10-01,175,carnet_extranjeria,ICA,pre_2026
+2025-11-01,174,carnet_extranjeria,ICA,pre_2026
+2025-12-01,215,carnet_extranjeria,ICA,pre_2026
+2026-01-01,197,carnet_extranjeria,ICA,post_2026
+2026-02-01,156,carnet_extranjeria,ICA,post_2026
+2026-03-01,155,carnet_extranjeria,ICA,post_2026
+2026-04-01,159,carnet_extranjeria,ICA,post_2026
+2026-05-01,168,carnet_extranjeria,ICA,post_2026
+2026-06-01,161,carnet_extranjeria,ICA,post_2026
+2026-07-01,120,carnet_extranjeria,ICA,post_2026
+2026-08-01,64,carnet_extranjeria,ICA,post_2026
+2025-01-01,21,carnet_extranjeria,ILO,pre_2026
+2025-02-01,24,carnet_extranjeria,ILO,pre_2026
+2025-03-01,25,carnet_extranjeria,ILO,pre_2026
+2025-04-01,20,carnet_extranjeria,ILO,pre_2026
+2025-05-01,13,carnet_extranjeria,ILO,pre_2026
+2025-06-01,17,carnet_extranjeria,ILO,pre_2026
+2025-07-01,20,carnet_extranjeria,ILO,pre_2026
+2025-08-01,16,carnet_extranjeria,ILO,pre_2026
+2025-09-01,29,carnet_extranjeria,ILO,pre_2026
+2025-10-01,27,carnet_extranjeria,ILO,pre_2026
+2025-11-01,34,carnet_extranjeria,ILO,pre_2026
+2025-12-01,24,carnet_extranjeria,ILO,pre_2026
+2026-01-01,27,carnet_extranjeria,ILO,post_2026
+2026-02-01,29,carnet_extranjeria,ILO,post_2026
+2026-03-01,25,carnet_extranjeria,ILO,post_2026
+2026-04-01,32,carnet_extranjeria,ILO,post_2026
+2026-05-01,25,carnet_extranjeria,ILO,post_2026
+2026-06-01,21,carnet_extranjeria,ILO,post_2026
+2026-07-01,42,carnet_extranjeria,ILO,post_2026
+2026-08-01,12,carnet_extranjeria,ILO,post_2026
+2025-01-01,18,carnet_extranjeria,IQUITOS,pre_2026
+2025-02-01,23,carnet_extranjeria,IQUITOS,pre_2026
+2025-03-01,34,carnet_extranjeria,IQUITOS,pre_2026
+2025-04-01,31,carnet_extranjeria,IQUITOS,pre_2026
+2025-05-01,19,carnet_extranjeria,IQUITOS,pre_2026
+2025-06-01,32,carnet_extranjeria,IQUITOS,pre_2026
+2025-07-01,37,carnet_extranjeria,IQUITOS,pre_2026
+2025-08-01,38,carnet_extranjeria,IQUITOS,pre_2026
+2025-09-01,36,carnet_extranjeria,IQUITOS,pre_2026
+2025-10-01,44,carnet_extranjeria,IQUITOS,pre_2026
+2025-11-01,25,carnet_extranjeria,IQUITOS,pre_2026
+2025-12-01,28,carnet_extranjeria,IQUITOS,pre_2026
+2026-01-01,33,carnet_extranjeria,IQUITOS,post_2026
+2026-02-01,26,carnet_extranjeria,IQUITOS,post_2026
+2026-03-01,55,carnet_extranjeria,IQUITOS,post_2026
+2026-04-01,58,carnet_extranjeria,IQUITOS,post_2026
+2026-05-01,38,carnet_extranjeria,IQUITOS,post_2026
+2026-06-01,41,carnet_extranjeria,IQUITOS,post_2026
+2026-07-01,43,carnet_extranjeria,IQUITOS,post_2026
+2026-08-01,44,carnet_extranjeria,IQUITOS,post_2026
+2025-01-01,89,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-02-01,113,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-03-01,119,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-04-01,116,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-05-01,113,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-06-01,116,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-07-01,158,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-08-01,193,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-09-01,225,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-10-01,192,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-11-01,188,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2025-12-01,229,carnet_extranjeria,JEFATURA ZONAL CALLAO,pre_2026
+2026-01-01,257,carnet_extranjeria,JEFATURA ZONAL CALLAO,post_2026
+2026-02-01,216,carnet_extranjeria,JEFATURA ZONAL CALLAO,post_2026
+2026-03-01,196,carnet_extranjeria,JEFATURA ZONAL CALLAO,post_2026
+2026-04-01,151,carnet_extranjeria,JEFATURA ZONAL CALLAO,post_2026
+2026-05-01,161,carnet_extranjeria,JEFATURA ZONAL CALLAO,post_2026
+2026-06-01,152,carnet_extranjeria,JEFATURA ZONAL CALLAO,post_2026
+2026-07-01,149,carnet_extranjeria,JEFATURA ZONAL CALLAO,post_2026
+2026-08-01,145,carnet_extranjeria,JEFATURA ZONAL CALLAO,post_2026
+2025-01-01,4959,carnet_extranjeria,LIMA,pre_2026
+2025-02-01,5496,carnet_extranjeria,LIMA,pre_2026
+2025-03-01,6406,carnet_extranjeria,LIMA,pre_2026
+2025-04-01,5422,carnet_extranjeria,LIMA,pre_2026
+2025-05-01,5677,carnet_extranjeria,LIMA,pre_2026
+2025-06-01,4727,carnet_extranjeria,LIMA,pre_2026
+2025-07-01,6487,carnet_extranjeria,LIMA,pre_2026
+2025-08-01,8375,carnet_extranjeria,LIMA,pre_2026
+2025-09-01,5978,carnet_extranjeria,LIMA,pre_2026
+2025-10-01,5470,carnet_extranjeria,LIMA,pre_2026
+2025-11-01,5387,carnet_extranjeria,LIMA,pre_2026
+2025-12-01,5809,carnet_extranjeria,LIMA,pre_2026
+2026-01-01,6048,carnet_extranjeria,LIMA,post_2026
+2026-02-01,5352,carnet_extranjeria,LIMA,post_2026
+2026-03-01,5976,carnet_extranjeria,LIMA,post_2026
+2026-04-01,4968,carnet_extranjeria,LIMA,post_2026
+2026-05-01,5255,carnet_extranjeria,LIMA,post_2026
+2026-06-01,5002,carnet_extranjeria,LIMA,post_2026
+2026-07-01,4911,carnet_extranjeria,LIMA,post_2026
+2026-08-01,4183,carnet_extranjeria,LIMA,post_2026
+2025-01-01,143,carnet_extranjeria,PIURA,pre_2026
+2025-02-01,126,carnet_extranjeria,PIURA,pre_2026
+2025-03-01,125,carnet_extranjeria,PIURA,pre_2026
+2025-04-01,119,carnet_extranjeria,PIURA,pre_2026
+2025-05-01,135,carnet_extranjeria,PIURA,pre_2026
+2025-06-01,70,carnet_extranjeria,PIURA,pre_2026
+2025-07-01,136,carnet_extranjeria,PIURA,pre_2026
+2025-08-01,127,carnet_extranjeria,PIURA,pre_2026
+2025-09-01,133,carnet_extranjeria,PIURA,pre_2026
+2025-10-01,140,carnet_extranjeria,PIURA,pre_2026
+2025-11-01,141,carnet_extranjeria,PIURA,pre_2026
+2025-12-01,133,carnet_extranjeria,PIURA,pre_2026
+2026-01-01,142,carnet_extranjeria,PIURA,post_2026
+2026-02-01,126,carnet_extranjeria,PIURA,post_2026
+2026-03-01,130,carnet_extranjeria,PIURA,post_2026
+2026-04-01,119,carnet_extranjeria,PIURA,post_2026
+2026-05-01,120,carnet_extranjeria,PIURA,post_2026
+2026-06-01,132,carnet_extranjeria,PIURA,post_2026
+2026-07-01,131,carnet_extranjeria,PIURA,post_2026
+2026-08-01,109,carnet_extranjeria,PIURA,post_2026
+2025-01-01,39,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-02-01,21,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-03-01,29,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-04-01,18,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-05-01,25,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-06-01,25,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-07-01,12,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-08-01,36,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-09-01,23,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-10-01,27,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-11-01,33,carnet_extranjeria,PTO MALDON.,pre_2026
+2025-12-01,30,carnet_extranjeria,PTO MALDON.,pre_2026
+2026-01-01,21,carnet_extranjeria,PTO MALDON.,post_2026
+2026-02-01,36,carnet_extranjeria,PTO MALDON.,post_2026
+2026-03-01,25,carnet_extranjeria,PTO MALDON.,post_2026
+2026-04-01,17,carnet_extranjeria,PTO MALDON.,post_2026
+2026-05-01,24,carnet_extranjeria,PTO MALDON.,post_2026
+2026-06-01,19,carnet_extranjeria,PTO MALDON.,post_2026
+2026-07-01,25,carnet_extranjeria,PTO MALDON.,post_2026
+2026-08-01,19,carnet_extranjeria,PTO MALDON.,post_2026
+2025-01-01,62,carnet_extranjeria,PUCALLPA,pre_2026
+2025-02-01,50,carnet_extranjeria,PUCALLPA,pre_2026
+2025-03-01,50,carnet_extranjeria,PUCALLPA,pre_2026
+2025-04-01,47,carnet_extranjeria,PUCALLPA,pre_2026
+2025-05-01,61,carnet_extranjeria,PUCALLPA,pre_2026
+2025-06-01,73,carnet_extranjeria,PUCALLPA,pre_2026
+2025-07-01,67,carnet_extranjeria,PUCALLPA,pre_2026
+2025-08-01,230,carnet_extranjeria,PUCALLPA,pre_2026
+2025-09-01,123,carnet_extranjeria,PUCALLPA,pre_2026
+2025-10-01,110,carnet_extranjeria,PUCALLPA,pre_2026
+2025-11-01,102,carnet_extranjeria,PUCALLPA,pre_2026
+2025-12-01,127,carnet_extranjeria,PUCALLPA,pre_2026
+2026-01-01,115,carnet_extranjeria,PUCALLPA,post_2026
+2026-02-01,90,carnet_extranjeria,PUCALLPA,post_2026
+2026-03-01,104,carnet_extranjeria,PUCALLPA,post_2026
+2026-04-01,99,carnet_extranjeria,PUCALLPA,post_2026
+2026-05-01,93,carnet_extranjeria,PUCALLPA,post_2026
+2026-06-01,86,carnet_extranjeria,PUCALLPA,post_2026
+2026-07-01,77,carnet_extranjeria,PUCALLPA,post_2026
+2026-08-01,53,carnet_extranjeria,PUCALLPA,post_2026
+2025-01-01,16,carnet_extranjeria,PUNO,pre_2026
+2025-02-01,12,carnet_extranjeria,PUNO,pre_2026
+2025-03-01,18,carnet_extranjeria,PUNO,pre_2026
+2025-04-01,14,carnet_extranjeria,PUNO,pre_2026
+2025-05-01,13,carnet_extranjeria,PUNO,pre_2026
+2025-06-01,18,carnet_extranjeria,PUNO,pre_2026
+2025-07-01,17,carnet_extranjeria,PUNO,pre_2026
+2025-08-01,13,carnet_extranjeria,PUNO,pre_2026
+2025-09-01,14,carnet_extranjeria,PUNO,pre_2026
+2025-10-01,12,carnet_extranjeria,PUNO,pre_2026
+2025-11-01,14,carnet_extranjeria,PUNO,pre_2026
+2025-12-01,11,carnet_extranjeria,PUNO,pre_2026
+2026-01-01,17,carnet_extranjeria,PUNO,post_2026
+2026-02-01,15,carnet_extranjeria,PUNO,post_2026
+2026-03-01,19,carnet_extranjeria,PUNO,post_2026
+2026-04-01,19,carnet_extranjeria,PUNO,post_2026
+2026-05-01,18,carnet_extranjeria,PUNO,post_2026
+2026-06-01,16,carnet_extranjeria,PUNO,post_2026
+2026-07-01,17,carnet_extranjeria,PUNO,post_2026
+2026-08-01,17,carnet_extranjeria,PUNO,post_2026
+2025-01-01,51,carnet_extranjeria,TACNA,pre_2026
+2025-02-01,58,carnet_extranjeria,TACNA,pre_2026
+2025-03-01,51,carnet_extranjeria,TACNA,pre_2026
+2025-04-01,42,carnet_extranjeria,TACNA,pre_2026
+2025-05-01,36,carnet_extranjeria,TACNA,pre_2026
+2025-06-01,52,carnet_extranjeria,TACNA,pre_2026
+2025-07-01,42,carnet_extranjeria,TACNA,pre_2026
+2025-08-01,56,carnet_extranjeria,TACNA,pre_2026
+2025-09-01,74,carnet_extranjeria,TACNA,pre_2026
+2025-10-01,70,carnet_extranjeria,TACNA,pre_2026
+2025-11-01,62,carnet_extranjeria,TACNA,pre_2026
+2025-12-01,63,carnet_extranjeria,TACNA,pre_2026
+2026-01-01,55,carnet_extranjeria,TACNA,post_2026
+2026-02-01,51,carnet_extranjeria,TACNA,post_2026
+2026-03-01,47,carnet_extranjeria,TACNA,post_2026
+2026-04-01,55,carnet_extranjeria,TACNA,post_2026
+2026-05-01,64,carnet_extranjeria,TACNA,post_2026
+2026-06-01,63,carnet_extranjeria,TACNA,post_2026
+2026-07-01,67,carnet_extranjeria,TACNA,post_2026
+2026-08-01,33,carnet_extranjeria,TACNA,post_2026
+2025-01-01,44,carnet_extranjeria,TARAPOTO,pre_2026
+2025-02-01,39,carnet_extranjeria,TARAPOTO,pre_2026
+2025-03-01,38,carnet_extranjeria,TARAPOTO,pre_2026
+2025-04-01,40,carnet_extranjeria,TARAPOTO,pre_2026
+2025-05-01,40,carnet_extranjeria,TARAPOTO,pre_2026
+2025-06-01,32,carnet_extranjeria,TARAPOTO,pre_2026
+2025-07-01,47,carnet_extranjeria,TARAPOTO,pre_2026
+2025-08-01,52,carnet_extranjeria,TARAPOTO,pre_2026
+2025-09-01,39,carnet_extranjeria,TARAPOTO,pre_2026
+2025-10-01,40,carnet_extranjeria,TARAPOTO,pre_2026
+2025-11-01,29,carnet_extranjeria,TARAPOTO,pre_2026
+2025-12-01,35,carnet_extranjeria,TARAPOTO,pre_2026
+2026-01-01,30,carnet_extranjeria,TARAPOTO,post_2026
+2026-02-01,42,carnet_extranjeria,TARAPOTO,post_2026
+2026-03-01,48,carnet_extranjeria,TARAPOTO,post_2026
+2026-04-01,44,carnet_extranjeria,TARAPOTO,post_2026
+2026-05-01,49,carnet_extranjeria,TARAPOTO,post_2026
+2026-06-01,42,carnet_extranjeria,TARAPOTO,post_2026
+2026-07-01,38,carnet_extranjeria,TARAPOTO,post_2026
+2026-08-01,44,carnet_extranjeria,TARAPOTO,post_2026
+2025-01-01,258,carnet_extranjeria,TRUJILLO,pre_2026
+2025-02-01,229,carnet_extranjeria,TRUJILLO,pre_2026
+2025-03-01,232,carnet_extranjeria,TRUJILLO,pre_2026
+2025-04-01,216,carnet_extranjeria,TRUJILLO,pre_2026
+2025-05-01,196,carnet_extranjeria,TRUJILLO,pre_2026
+2025-06-01,202,carnet_extranjeria,TRUJILLO,pre_2026
+2025-07-01,221,carnet_extranjeria,TRUJILLO,pre_2026
+2025-08-01,289,carnet_extranjeria,TRUJILLO,pre_2026
+2025-09-01,288,carnet_extranjeria,TRUJILLO,pre_2026
+2025-10-01,282,carnet_extranjeria,TRUJILLO,pre_2026
+2025-11-01,273,carnet_extranjeria,TRUJILLO,pre_2026
+2025-12-01,288,carnet_extranjeria,TRUJILLO,pre_2026
+2026-01-01,290,carnet_extranjeria,TRUJILLO,post_2026
+2026-02-01,288,carnet_extranjeria,TRUJILLO,post_2026
+2026-03-01,293,carnet_extranjeria,TRUJILLO,post_2026
+2026-04-01,229,carnet_extranjeria,TRUJILLO,post_2026
+2026-05-01,262,carnet_extranjeria,TRUJILLO,post_2026
+2026-06-01,219,carnet_extranjeria,TRUJILLO,post_2026
+2026-07-01,219,carnet_extranjeria,TRUJILLO,post_2026
+2026-08-01,172,carnet_extranjeria,TRUJILLO,post_2026
+2025-01-01,40,carnet_extranjeria,TUMBES,pre_2026
+2025-02-01,42,carnet_extranjeria,TUMBES,pre_2026
+2025-03-01,32,carnet_extranjeria,TUMBES,pre_2026
+2025-04-01,31,carnet_extranjeria,TUMBES,pre_2026
+2025-05-01,45,carnet_extranjeria,TUMBES,pre_2026
+2025-06-01,32,carnet_extranjeria,TUMBES,pre_2026
+2025-07-01,31,carnet_extranjeria,TUMBES,pre_2026
+2025-08-01,25,carnet_extranjeria,TUMBES,pre_2026
+2025-09-01,36,carnet_extranjeria,TUMBES,pre_2026
+2025-10-01,30,carnet_extranjeria,TUMBES,pre_2026
+2025-11-01,29,carnet_extranjeria,TUMBES,pre_2026
+2025-12-01,33,carnet_extranjeria,TUMBES,pre_2026
+2026-01-01,46,carnet_extranjeria,TUMBES,post_2026
+2026-02-01,35,carnet_extranjeria,TUMBES,post_2026
+2026-03-01,33,carnet_extranjeria,TUMBES,post_2026
+2026-04-01,31,carnet_extranjeria,TUMBES,post_2026
+2026-05-01,32,carnet_extranjeria,TUMBES,post_2026
+2026-06-01,33,carnet_extranjeria,TUMBES,post_2026
+2026-07-01,40,carnet_extranjeria,TUMBES,post_2026
+2026-08-01,29,carnet_extranjeria,TUMBES,post_2026
+2025-01-01,35,prorroga_residencia,A.I.J.CH.,
+2025-02-01,60,prorroga_residencia,A.I.J.CH.,
+2025-03-01,61,prorroga_residencia,A.I.J.CH.,
+2025-04-01,53,prorroga_residencia,A.I.J.CH.,
+2025-05-01,49,prorroga_residencia,A.I.J.CH.,
+2025-06-01,63,prorroga_residencia,A.I.J.CH.,
+2025-07-01,81,prorroga_residencia,A.I.J.CH.,
+2025-08-01,79,prorroga_residencia,A.I.J.CH.,
+2025-09-01,56,prorroga_residencia,A.I.J.CH.,
+2025-10-01,56,prorroga_residencia,A.I.J.CH.,
+2025-11-01,56,prorroga_residencia,A.I.J.CH.,
+2025-12-01,118,prorroga_residencia,A.I.J.CH.,
+2026-01-01,49,prorroga_residencia,A.I.J.CH.,
+2026-02-01,62,prorroga_residencia,A.I.J.CH.,
+2026-03-01,62,prorroga_residencia,A.I.J.CH.,
+2026-04-01,32,prorroga_residencia,A.I.J.CH.,
+2026-05-01,32,prorroga_residencia,A.I.J.CH.,
+2026-06-01,28,prorroga_residencia,A.I.J.CH.,
+2026-07-01,37,prorroga_residencia,A.I.J.CH.,
+2026-08-01,17,prorroga_residencia,A.I.J.CH.,
+2025-01-01,1853,prorroga_residencia,AREQUIPA,
+2025-02-01,1440,prorroga_residencia,AREQUIPA,
+2025-03-01,1085,prorroga_residencia,AREQUIPA,
+2025-04-01,916,prorroga_residencia,AREQUIPA,
+2025-05-01,862,prorroga_residencia,AREQUIPA,
+2025-06-01,742,prorroga_residencia,AREQUIPA,
+2025-07-01,668,prorroga_residencia,AREQUIPA,
+2025-08-01,688,prorroga_residencia,AREQUIPA,
+2025-09-01,725,prorroga_residencia,AREQUIPA,
+2025-10-01,934,prorroga_residencia,AREQUIPA,
+2025-11-01,1468,prorroga_residencia,AREQUIPA,
+2025-12-01,1622,prorroga_residencia,AREQUIPA,
+2026-01-01,1975,prorroga_residencia,AREQUIPA,
+2026-02-01,1545,prorroga_residencia,AREQUIPA,
+2026-03-01,1246,prorroga_residencia,AREQUIPA,
+2026-04-01,950,prorroga_residencia,AREQUIPA,
+2026-05-01,891,prorroga_residencia,AREQUIPA,
+2026-06-01,911,prorroga_residencia,AREQUIPA,
+2026-07-01,793,prorroga_residencia,AREQUIPA,
+2026-08-01,674,prorroga_residencia,AREQUIPA,
+2025-01-01,865,prorroga_residencia,CHICLAYO,
+2025-02-01,796,prorroga_residencia,CHICLAYO,
+2025-03-01,841,prorroga_residencia,CHICLAYO,
+2025-04-01,702,prorroga_residencia,CHICLAYO,
+2025-05-01,557,prorroga_residencia,CHICLAYO,
+2025-06-01,464,prorroga_residencia,CHICLAYO,
+2025-07-01,513,prorroga_residencia,CHICLAYO,
+2025-08-01,517,prorroga_residencia,CHICLAYO,
+2025-09-01,519,prorroga_residencia,CHICLAYO,
+2025-10-01,419,prorroga_residencia,CHICLAYO,
+2025-11-01,526,prorroga_residencia,CHICLAYO,
+2025-12-01,642,prorroga_residencia,CHICLAYO,
+2026-01-01,924,prorroga_residencia,CHICLAYO,
+2026-02-01,840,prorroga_residencia,CHICLAYO,
+2026-03-01,838,prorroga_residencia,CHICLAYO,
+2026-04-01,705,prorroga_residencia,CHICLAYO,
+2026-05-01,589,prorroga_residencia,CHICLAYO,
+2026-06-01,557,prorroga_residencia,CHICLAYO,
+2026-07-01,569,prorroga_residencia,CHICLAYO,
+2026-08-01,617,prorroga_residencia,CHICLAYO,
+2025-01-01,796,prorroga_residencia,CHIMBOTE,
+2025-02-01,700,prorroga_residencia,CHIMBOTE,
+2025-03-01,581,prorroga_residencia,CHIMBOTE,
+2025-04-01,395,prorroga_residencia,CHIMBOTE,
+2025-05-01,311,prorroga_residencia,CHIMBOTE,
+2025-06-01,295,prorroga_residencia,CHIMBOTE,
+2025-07-01,308,prorroga_residencia,CHIMBOTE,
+2025-08-01,355,prorroga_residencia,CHIMBOTE,
+2025-09-01,396,prorroga_residencia,CHIMBOTE,
+2025-10-01,443,prorroga_residencia,CHIMBOTE,
+2025-11-01,436,prorroga_residencia,CHIMBOTE,
+2025-12-01,667,prorroga_residencia,CHIMBOTE,
+2026-01-01,881,prorroga_residencia,CHIMBOTE,
+2026-02-01,723,prorroga_residencia,CHIMBOTE,
+2026-03-01,608,prorroga_residencia,CHIMBOTE,
+2026-04-01,399,prorroga_residencia,CHIMBOTE,
+2026-05-01,341,prorroga_residencia,CHIMBOTE,
+2026-06-01,350,prorroga_residencia,CHIMBOTE,
+2026-07-01,384,prorroga_residencia,CHIMBOTE,
+2026-08-01,417,prorroga_residencia,CHIMBOTE,
+2025-01-01,749,prorroga_residencia,CUSCO,
+2025-02-01,400,prorroga_residencia,CUSCO,
+2025-03-01,358,prorroga_residencia,CUSCO,
+2025-04-01,235,prorroga_residencia,CUSCO,
+2025-05-01,277,prorroga_residencia,CUSCO,
+2025-06-01,200,prorroga_residencia,CUSCO,
+2025-07-01,265,prorroga_residencia,CUSCO,
+2025-08-01,239,prorroga_residencia,CUSCO,
+2025-09-01,256,prorroga_residencia,CUSCO,
+2025-10-01,276,prorroga_residencia,CUSCO,
+2025-11-01,384,prorroga_residencia,CUSCO,
+2025-12-01,480,prorroga_residencia,CUSCO,
+2026-01-01,672,prorroga_residencia,CUSCO,
+2026-02-01,394,prorroga_residencia,CUSCO,
+2026-03-01,384,prorroga_residencia,CUSCO,
+2026-04-01,279,prorroga_residencia,CUSCO,
+2026-05-01,284,prorroga_residencia,CUSCO,
+2026-06-01,232,prorroga_residencia,CUSCO,
+2026-07-01,286,prorroga_residencia,CUSCO,
+2026-08-01,294,prorroga_residencia,CUSCO,
+2025-01-01,387,prorroga_residencia,HUANCAYO,
+2025-02-01,216,prorroga_residencia,HUANCAYO,
+2025-03-01,231,prorroga_residencia,HUANCAYO,
+2025-04-01,242,prorroga_residencia,HUANCAYO,
+2025-05-01,181,prorroga_residencia,HUANCAYO,
+2025-06-01,172,prorroga_residencia,HUANCAYO,
+2025-07-01,179,prorroga_residencia,HUANCAYO,
+2025-08-01,192,prorroga_residencia,HUANCAYO,
+2025-09-01,243,prorroga_residencia,HUANCAYO,
+2025-10-01,252,prorroga_residencia,HUANCAYO,
+2025-11-01,246,prorroga_residencia,HUANCAYO,
+2025-12-01,381,prorroga_residencia,HUANCAYO,
+2026-01-01,500,prorroga_residencia,HUANCAYO,
+2026-02-01,275,prorroga_residencia,HUANCAYO,
+2026-03-01,328,prorroga_residencia,HUANCAYO,
+2026-04-01,253,prorroga_residencia,HUANCAYO,
+2026-05-01,172,prorroga_residencia,HUANCAYO,
+2026-06-01,237,prorroga_residencia,HUANCAYO,
+2026-07-01,232,prorroga_residencia,HUANCAYO,
+2026-08-01,189,prorroga_residencia,HUANCAYO,
+2025-05-01,3,prorroga_residencia,ICA,
+2025-06-01,107,prorroga_residencia,ICA,
+2025-07-01,221,prorroga_residencia,ICA,
+2025-08-01,234,prorroga_residencia,ICA,
+2025-09-01,228,prorroga_residencia,ICA,
+2025-10-01,335,prorroga_residencia,ICA,
+2025-11-01,476,prorroga_residencia,ICA,
+2025-12-01,652,prorroga_residencia,ICA,
+2026-01-01,874,prorroga_residencia,ICA,
+2026-02-01,736,prorroga_residencia,ICA,
+2026-03-01,642,prorroga_residencia,ICA,
+2026-04-01,396,prorroga_residencia,ICA,
+2026-05-01,403,prorroga_residencia,ICA,
+2026-06-01,368,prorroga_residencia,ICA,
+2026-07-01,372,prorroga_residencia,ICA,
+2026-08-01,412,prorroga_residencia,ICA,
+2025-01-01,250,prorroga_residencia,ILO,
+2025-02-01,198,prorroga_residencia,ILO,
+2025-03-01,199,prorroga_residencia,ILO,
+2025-04-01,124,prorroga_residencia,ILO,
+2025-05-01,83,prorroga_residencia,ILO,
+2025-06-01,55,prorroga_residencia,ILO,
+2025-07-01,74,prorroga_residencia,ILO,
+2025-08-01,86,prorroga_residencia,ILO,
+2025-09-01,100,prorroga_residencia,ILO,
+2025-10-01,76,prorroga_residencia,ILO,
+2025-11-01,119,prorroga_residencia,ILO,
+2025-12-01,159,prorroga_residencia,ILO,
+2026-01-01,248,prorroga_residencia,ILO,
+2026-02-01,265,prorroga_residencia,ILO,
+2026-03-01,205,prorroga_residencia,ILO,
+2026-04-01,122,prorroga_residencia,ILO,
+2026-05-01,90,prorroga_residencia,ILO,
+2026-06-01,94,prorroga_residencia,ILO,
+2026-07-01,104,prorroga_residencia,ILO,
+2026-08-01,62,prorroga_residencia,ILO,
+2025-01-01,159,prorroga_residencia,IQUITOS,
+2025-02-01,71,prorroga_residencia,IQUITOS,
+2025-03-01,51,prorroga_residencia,IQUITOS,
+2025-04-01,35,prorroga_residencia,IQUITOS,
+2025-05-01,65,prorroga_residencia,IQUITOS,
+2025-06-01,76,prorroga_residencia,IQUITOS,
+2025-07-01,70,prorroga_residencia,IQUITOS,
+2025-08-01,95,prorroga_residencia,IQUITOS,
+2025-09-01,61,prorroga_residencia,IQUITOS,
+2025-10-01,127,prorroga_residencia,IQUITOS,
+2025-11-01,136,prorroga_residencia,IQUITOS,
+2025-12-01,129,prorroga_residencia,IQUITOS,
+2026-01-01,150,prorroga_residencia,IQUITOS,
+2026-02-01,90,prorroga_residencia,IQUITOS,
+2026-03-01,104,prorroga_residencia,IQUITOS,
+2026-04-01,101,prorroga_residencia,IQUITOS,
+2026-05-01,91,prorroga_residencia,IQUITOS,
+2026-06-01,86,prorroga_residencia,IQUITOS,
+2026-07-01,81,prorroga_residencia,IQUITOS,
+2026-08-01,99,prorroga_residencia,IQUITOS,
+2025-01-01,175,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-02-01,220,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-03-01,222,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-04-01,156,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-05-01,143,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-06-01,154,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-07-01,123,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-08-01,94,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-09-01,106,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-10-01,133,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-11-01,197,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-12-01,401,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2026-01-01,457,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2026-02-01,347,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2026-03-01,309,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2026-04-01,229,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2026-05-01,274,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2026-06-01,268,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2026-07-01,238,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2026-08-01,190,prorroga_residencia,JEFATURA ZONAL CALLAO,
+2025-01-01,44460,prorroga_residencia,LIMA,
+2025-02-01,35333,prorroga_residencia,LIMA,
+2025-03-01,24172,prorroga_residencia,LIMA,
+2025-04-01,14982,prorroga_residencia,LIMA,
+2025-05-01,16366,prorroga_residencia,LIMA,
+2025-06-01,16984,prorroga_residencia,LIMA,
+2025-07-01,18409,prorroga_residencia,LIMA,
+2025-08-01,16874,prorroga_residencia,LIMA,
+2025-09-01,17306,prorroga_residencia,LIMA,
+2025-10-01,18382,prorroga_residencia,LIMA,
+2025-11-01,23313,prorroga_residencia,LIMA,
+2025-12-01,34491,prorroga_residencia,LIMA,
+2026-01-01,44164,prorroga_residencia,LIMA,
+2026-02-01,35643,prorroga_residencia,LIMA,
+2026-03-01,26760,prorroga_residencia,LIMA,
+2026-04-01,17543,prorroga_residencia,LIMA,
+2026-05-01,19184,prorroga_residencia,LIMA,
+2026-06-01,19783,prorroga_residencia,LIMA,
+2026-07-01,21653,prorroga_residencia,LIMA,
+2026-08-01,18417,prorroga_residencia,LIMA,
+2025-01-01,964,prorroga_residencia,PIURA,
+2025-02-01,747,prorroga_residencia,PIURA,
+2025-03-01,463,prorroga_residencia,PIURA,
+2025-04-01,412,prorroga_residencia,PIURA,
+2025-05-01,413,prorroga_residencia,PIURA,
+2025-06-01,398,prorroga_residencia,PIURA,
+2025-07-01,466,prorroga_residencia,PIURA,
+2025-08-01,589,prorroga_residencia,PIURA,
+2025-09-01,585,prorroga_residencia,PIURA,
+2025-10-01,701,prorroga_residencia,PIURA,
+2025-11-01,788,prorroga_residencia,PIURA,
+2025-12-01,1096,prorroga_residencia,PIURA,
+2026-01-01,1028,prorroga_residencia,PIURA,
+2026-02-01,875,prorroga_residencia,PIURA,
+2026-03-01,678,prorroga_residencia,PIURA,
+2026-04-01,546,prorroga_residencia,PIURA,
+2026-05-01,444,prorroga_residencia,PIURA,
+2026-06-01,621,prorroga_residencia,PIURA,
+2026-07-01,582,prorroga_residencia,PIURA,
+2026-08-01,667,prorroga_residencia,PIURA,
+2025-01-01,270,prorroga_residencia,PTO MALDON.,
+2025-02-01,101,prorroga_residencia,PTO MALDON.,
+2025-03-01,71,prorroga_residencia,PTO MALDON.,
+2025-04-01,57,prorroga_residencia,PTO MALDON.,
+2025-05-01,57,prorroga_residencia,PTO MALDON.,
+2025-06-01,54,prorroga_residencia,PTO MALDON.,
+2025-07-01,50,prorroga_residencia,PTO MALDON.,
+2025-08-01,79,prorroga_residencia,PTO MALDON.,
+2025-09-01,65,prorroga_residencia,PTO MALDON.,
+2025-10-01,97,prorroga_residencia,PTO MALDON.,
+2025-11-01,143,prorroga_residencia,PTO MALDON.,
+2025-12-01,179,prorroga_residencia,PTO MALDON.,
+2026-01-01,286,prorroga_residencia,PTO MALDON.,
+2026-02-01,150,prorroga_residencia,PTO MALDON.,
+2026-03-01,95,prorroga_residencia,PTO MALDON.,
+2026-04-01,70,prorroga_residencia,PTO MALDON.,
+2026-05-01,76,prorroga_residencia,PTO MALDON.,
+2026-06-01,67,prorroga_residencia,PTO MALDON.,
+2026-07-01,75,prorroga_residencia,PTO MALDON.,
+2026-08-01,79,prorroga_residencia,PTO MALDON.,
+2025-01-01,465,prorroga_residencia,PUCALLPA,
+2025-02-01,212,prorroga_residencia,PUCALLPA,
+2025-03-01,217,prorroga_residencia,PUCALLPA,
+2025-04-01,184,prorroga_residencia,PUCALLPA,
+2025-05-01,164,prorroga_residencia,PUCALLPA,
+2025-06-01,154,prorroga_residencia,PUCALLPA,
+2025-07-01,160,prorroga_residencia,PUCALLPA,
+2025-08-01,404,prorroga_residencia,PUCALLPA,
+2025-09-01,142,prorroga_residencia,PUCALLPA,
+2025-10-01,208,prorroga_residencia,PUCALLPA,
+2025-11-01,313,prorroga_residencia,PUCALLPA,
+2025-12-01,420,prorroga_residencia,PUCALLPA,
+2026-01-01,417,prorroga_residencia,PUCALLPA,
+2026-02-01,266,prorroga_residencia,PUCALLPA,
+2026-03-01,359,prorroga_residencia,PUCALLPA,
+2026-04-01,267,prorroga_residencia,PUCALLPA,
+2026-05-01,282,prorroga_residencia,PUCALLPA,
+2026-06-01,278,prorroga_residencia,PUCALLPA,
+2026-07-01,224,prorroga_residencia,PUCALLPA,
+2026-08-01,224,prorroga_residencia,PUCALLPA,
+2025-01-01,32,prorroga_residencia,PUNO,
+2025-02-01,27,prorroga_residencia,PUNO,
+2025-03-01,31,prorroga_residencia,PUNO,
+2025-04-01,22,prorroga_residencia,PUNO,
+2025-05-01,23,prorroga_residencia,PUNO,
+2025-06-01,25,prorroga_residencia,PUNO,
+2025-07-01,9,prorroga_residencia,PUNO,
+2025-08-01,29,prorroga_residencia,PUNO,
+2025-09-01,27,prorroga_residencia,PUNO,
+2025-10-01,48,prorroga_residencia,PUNO,
+2025-11-01,70,prorroga_residencia,PUNO,
+2025-12-01,62,prorroga_residencia,PUNO,
+2026-01-01,42,prorroga_residencia,PUNO,
+2026-02-01,44,prorroga_residencia,PUNO,
+2026-03-01,34,prorroga_residencia,PUNO,
+2026-04-01,30,prorroga_residencia,PUNO,
+2026-05-01,26,prorroga_residencia,PUNO,
+2026-06-01,32,prorroga_residencia,PUNO,
+2026-07-01,18,prorroga_residencia,PUNO,
+2026-08-01,37,prorroga_residencia,PUNO,
+2025-01-01,510,prorroga_residencia,TACNA,
+2025-02-01,192,prorroga_residencia,TACNA,
+2025-03-01,135,prorroga_residencia,TACNA,
+2025-04-01,131,prorroga_residencia,TACNA,
+2025-05-01,131,prorroga_residencia,TACNA,
+2025-06-01,166,prorroga_residencia,TACNA,
+2025-07-01,146,prorroga_residencia,TACNA,
+2025-08-01,139,prorroga_residencia,TACNA,
+2025-09-01,174,prorroga_residencia,TACNA,
+2025-10-01,166,prorroga_residencia,TACNA,
+2025-11-01,205,prorroga_residencia,TACNA,
+2025-12-01,368,prorroga_residencia,TACNA,
+2026-01-01,488,prorroga_residencia,TACNA,
+2026-02-01,234,prorroga_residencia,TACNA,
+2026-03-01,152,prorroga_residencia,TACNA,
+2026-04-01,125,prorroga_residencia,TACNA,
+2026-05-01,106,prorroga_residencia,TACNA,
+2026-06-01,121,prorroga_residencia,TACNA,
+2026-07-01,172,prorroga_residencia,TACNA,
+2026-08-01,209,prorroga_residencia,TACNA,
+2025-01-01,296,prorroga_residencia,TARAPOTO,
+2025-02-01,164,prorroga_residencia,TARAPOTO,
+2025-03-01,125,prorroga_residencia,TARAPOTO,
+2025-04-01,84,prorroga_residencia,TARAPOTO,
+2025-05-01,82,prorroga_residencia,TARAPOTO,
+2025-06-01,89,prorroga_residencia,TARAPOTO,
+2025-07-01,109,prorroga_residencia,TARAPOTO,
+2025-08-01,122,prorroga_residencia,TARAPOTO,
+2025-09-01,120,prorroga_residencia,TARAPOTO,
+2025-10-01,112,prorroga_residencia,TARAPOTO,
+2025-11-01,170,prorroga_residencia,TARAPOTO,
+2025-12-01,215,prorroga_residencia,TARAPOTO,
+2026-01-01,287,prorroga_residencia,TARAPOTO,
+2026-02-01,221,prorroga_residencia,TARAPOTO,
+2026-03-01,136,prorroga_residencia,TARAPOTO,
+2026-04-01,126,prorroga_residencia,TARAPOTO,
+2026-05-01,102,prorroga_residencia,TARAPOTO,
+2026-06-01,99,prorroga_residencia,TARAPOTO,
+2026-07-01,147,prorroga_residencia,TARAPOTO,
+2026-08-01,120,prorroga_residencia,TARAPOTO,
+2025-01-01,2812,prorroga_residencia,TRUJILLO,
+2025-02-01,1796,prorroga_residencia,TRUJILLO,
+2025-03-01,1070,prorroga_residencia,TRUJILLO,
+2025-04-01,932,prorroga_residencia,TRUJILLO,
+2025-05-01,876,prorroga_residencia,TRUJILLO,
+2025-06-01,811,prorroga_residencia,TRUJILLO,
+2025-07-01,923,prorroga_residencia,TRUJILLO,
+2025-08-01,1025,prorroga_residencia,TRUJILLO,
+2025-09-01,1078,prorroga_residencia,TRUJILLO,
+2025-10-01,1827,prorroga_residencia,TRUJILLO,
+2025-11-01,2336,prorroga_residencia,TRUJILLO,
+2025-12-01,2687,prorroga_residencia,TRUJILLO,
+2026-01-01,2925,prorroga_residencia,TRUJILLO,
+2026-02-01,2093,prorroga_residencia,TRUJILLO,
+2026-03-01,1415,prorroga_residencia,TRUJILLO,
+2026-04-01,1113,prorroga_residencia,TRUJILLO,
+2026-05-01,1030,prorroga_residencia,TRUJILLO,
+2026-06-01,1188,prorroga_residencia,TRUJILLO,
+2026-07-01,1124,prorroga_residencia,TRUJILLO,
+2026-08-01,1169,prorroga_residencia,TRUJILLO,
+2025-01-01,566,prorroga_residencia,TUMBES,
+2025-02-01,273,prorroga_residencia,TUMBES,
+2025-03-01,224,prorroga_residencia,TUMBES,
+2025-04-01,237,prorroga_residencia,TUMBES,
+2025-05-01,234,prorroga_residencia,TUMBES,
+2025-06-01,213,prorroga_residencia,TUMBES,
+2025-07-01,254,prorroga_residencia,TUMBES,
+2025-08-01,301,prorroga_residencia,TUMBES,
+2025-09-01,287,prorroga_residencia,TUMBES,
+2025-10-01,304,prorroga_residencia,TUMBES,
+2025-11-01,364,prorroga_residencia,TUMBES,
+2025-12-01,516,prorroga_residencia,TUMBES,
+2026-01-01,579,prorroga_residencia,TUMBES,
+2026-02-01,365,prorroga_residencia,TUMBES,
+2026-03-01,283,prorroga_residencia,TUMBES,
+2026-04-01,183,prorroga_residencia,TUMBES,
+2026-05-01,214,prorroga_residencia,TUMBES,
+2026-06-01,231,prorroga_residencia,TUMBES,
+2026-07-01,277,prorroga_residencia,TUMBES,
+2026-08-01,281,prorroga_residencia,TUMBES,
+2025-01-01,12,solicitud_visas,AREQUIPA,
+2025-02-01,3,solicitud_visas,AREQUIPA,
+2025-03-01,4,solicitud_visas,AREQUIPA,
+2025-04-01,8,solicitud_visas,AREQUIPA,
+2025-05-01,10,solicitud_visas,AREQUIPA,
+2025-06-01,3,solicitud_visas,AREQUIPA,
+2025-07-01,5,solicitud_visas,AREQUIPA,
+2025-08-01,14,solicitud_visas,AREQUIPA,
+2025-09-01,11,solicitud_visas,AREQUIPA,
+2025-10-01,7,solicitud_visas,AREQUIPA,
+2025-11-01,10,solicitud_visas,AREQUIPA,
+2025-12-01,13,solicitud_visas,AREQUIPA,
+2026-01-01,8,solicitud_visas,AREQUIPA,
+2026-02-01,16,solicitud_visas,AREQUIPA,
+2026-03-01,17,solicitud_visas,AREQUIPA,
+2026-04-01,16,solicitud_visas,AREQUIPA,
+2026-05-01,14,solicitud_visas,AREQUIPA,
+2026-06-01,12,solicitud_visas,AREQUIPA,
+2026-07-01,19,solicitud_visas,AREQUIPA,
+2026-08-01,30,solicitud_visas,AREQUIPA,
+2025-01-01,5,solicitud_visas,CHICLAYO,
+2025-02-01,2,solicitud_visas,CHICLAYO,
+2025-03-01,5,solicitud_visas,CHICLAYO,
+2025-04-01,5,solicitud_visas,CHICLAYO,
+2025-05-01,2,solicitud_visas,CHICLAYO,
+2025-06-01,6,solicitud_visas,CHICLAYO,
+2025-07-01,6,solicitud_visas,CHICLAYO,
+2025-08-01,7,solicitud_visas,CHICLAYO,
+2025-09-01,6,solicitud_visas,CHICLAYO,
+2025-10-01,3,solicitud_visas,CHICLAYO,
+2025-11-01,3,solicitud_visas,CHICLAYO,
+2025-12-01,6,solicitud_visas,CHICLAYO,
+2026-01-01,4,solicitud_visas,CHICLAYO,
+2026-02-01,5,solicitud_visas,CHICLAYO,
+2026-03-01,4,solicitud_visas,CHICLAYO,
+2026-04-01,3,solicitud_visas,CHICLAYO,
+2026-05-01,3,solicitud_visas,CHICLAYO,
+2026-06-01,5,solicitud_visas,CHICLAYO,
+2026-07-01,11,solicitud_visas,CHICLAYO,
+2026-08-01,5,solicitud_visas,CHICLAYO,
+2025-04-01,1,solicitud_visas,CHIMBOTE,
+2025-05-01,2,solicitud_visas,CHIMBOTE,
+2025-06-01,2,solicitud_visas,CHIMBOTE,
+2025-07-01,2,solicitud_visas,CHIMBOTE,
+2025-09-01,2,solicitud_visas,CHIMBOTE,
+2025-10-01,1,solicitud_visas,CHIMBOTE,
+2026-03-01,1,solicitud_visas,CHIMBOTE,
+2026-04-01,3,solicitud_visas,CHIMBOTE,
+2026-05-01,3,solicitud_visas,CHIMBOTE,
+2026-06-01,2,solicitud_visas,CHIMBOTE,
+2026-07-01,2,solicitud_visas,CHIMBOTE,
+2025-01-01,3,solicitud_visas,CUSCO,
+2025-02-01,1,solicitud_visas,CUSCO,
+2025-03-01,6,solicitud_visas,CUSCO,
+2025-05-01,2,solicitud_visas,CUSCO,
+2025-06-01,6,solicitud_visas,CUSCO,
+2025-07-01,8,solicitud_visas,CUSCO,
+2025-08-01,8,solicitud_visas,CUSCO,
+2025-09-01,3,solicitud_visas,CUSCO,
+2025-10-01,8,solicitud_visas,CUSCO,
+2025-11-01,3,solicitud_visas,CUSCO,
+2025-12-01,3,solicitud_visas,CUSCO,
+2026-01-01,6,solicitud_visas,CUSCO,
+2026-02-01,11,solicitud_visas,CUSCO,
+2026-03-01,13,solicitud_visas,CUSCO,
+2026-04-01,5,solicitud_visas,CUSCO,
+2026-05-01,4,solicitud_visas,CUSCO,
+2026-06-01,7,solicitud_visas,CUSCO,
+2026-07-01,4,solicitud_visas,CUSCO,
+2026-08-01,5,solicitud_visas,CUSCO,
+2025-01-01,2,solicitud_visas,HUANCAYO,
+2025-03-01,5,solicitud_visas,HUANCAYO,
+2025-04-01,3,solicitud_visas,HUANCAYO,
+2025-05-01,4,solicitud_visas,HUANCAYO,
+2025-06-01,2,solicitud_visas,HUANCAYO,
+2025-07-01,3,solicitud_visas,HUANCAYO,
+2025-08-01,5,solicitud_visas,HUANCAYO,
+2025-09-01,8,solicitud_visas,HUANCAYO,
+2025-11-01,6,solicitud_visas,HUANCAYO,
+2025-12-01,12,solicitud_visas,HUANCAYO,
+2026-01-01,6,solicitud_visas,HUANCAYO,
+2026-02-01,4,solicitud_visas,HUANCAYO,
+2026-03-01,6,solicitud_visas,HUANCAYO,
+2026-04-01,5,solicitud_visas,HUANCAYO,
+2026-05-01,5,solicitud_visas,HUANCAYO,
+2026-06-01,17,solicitud_visas,HUANCAYO,
+2026-07-01,27,solicitud_visas,HUANCAYO,
+2026-08-01,21,solicitud_visas,HUANCAYO,
+2025-08-01,1,solicitud_visas,ICA,
+2025-10-01,2,solicitud_visas,ICA,
+2025-11-01,1,solicitud_visas,ICA,
+2025-12-01,5,solicitud_visas,ICA,
+2026-01-01,2,solicitud_visas,ICA,
+2026-02-01,4,solicitud_visas,ICA,
+2026-03-01,7,solicitud_visas,ICA,
+2026-04-01,1,solicitud_visas,ICA,
+2026-05-01,6,solicitud_visas,ICA,
+2026-06-01,3,solicitud_visas,ICA,
+2026-07-01,15,solicitud_visas,ICA,
+2026-08-01,4,solicitud_visas,ICA,
+2025-06-01,1,solicitud_visas,ILO,
+2025-09-01,4,solicitud_visas,ILO,
+2025-11-01,1,solicitud_visas,ILO,
+2025-12-01,1,solicitud_visas,ILO,
+2026-04-01,2,solicitud_visas,ILO,
+2026-05-01,1,solicitud_visas,ILO,
+2026-06-01,1,solicitud_visas,ILO,
+2026-08-01,6,solicitud_visas,ILO,
+2025-01-01,6,solicitud_visas,IQUITOS,
+2025-03-01,2,solicitud_visas,IQUITOS,
+2025-04-01,3,solicitud_visas,IQUITOS,
+2025-05-01,4,solicitud_visas,IQUITOS,
+2025-06-01,3,solicitud_visas,IQUITOS,
+2025-07-01,1,solicitud_visas,IQUITOS,
+2025-08-01,19,solicitud_visas,IQUITOS,
+2025-09-01,1,solicitud_visas,IQUITOS,
+2025-10-01,6,solicitud_visas,IQUITOS,
+2025-11-01,1,solicitud_visas,IQUITOS,
+2025-12-01,14,solicitud_visas,IQUITOS,
+2026-01-01,14,solicitud_visas,IQUITOS,
+2026-02-01,4,solicitud_visas,IQUITOS,
+2026-03-01,11,solicitud_visas,IQUITOS,
+2026-04-01,11,solicitud_visas,IQUITOS,
+2026-05-01,10,solicitud_visas,IQUITOS,
+2026-06-01,38,solicitud_visas,IQUITOS,
+2026-07-01,2,solicitud_visas,IQUITOS,
+2026-08-01,2,solicitud_visas,IQUITOS,
+2025-02-01,1,solicitud_visas,JEFATURA ZONAL CALLAO,
+2025-03-01,1,solicitud_visas,JEFATURA ZONAL CALLAO,
+2025-10-01,1,solicitud_visas,JEFATURA ZONAL CALLAO,
+2026-01-01,3,solicitud_visas,JEFATURA ZONAL CALLAO,
+2026-02-01,1,solicitud_visas,JEFATURA ZONAL CALLAO,
+2026-05-01,2,solicitud_visas,JEFATURA ZONAL CALLAO,
+2026-06-01,4,solicitud_visas,JEFATURA ZONAL CALLAO,
+2026-07-01,2,solicitud_visas,JEFATURA ZONAL CALLAO,
+2026-08-01,1,solicitud_visas,JEFATURA ZONAL CALLAO,
+2025-01-01,1253,solicitud_visas,LIMA,
+2025-02-01,801,solicitud_visas,LIMA,
+2025-03-01,1021,solicitud_visas,LIMA,
+2025-04-01,951,solicitud_visas,LIMA,
+2025-05-01,882,solicitud_visas,LIMA,
+2025-06-01,857,solicitud_visas,LIMA,
+2025-07-01,1279,solicitud_visas,LIMA,
+2025-08-01,1210,solicitud_visas,LIMA,
+2025-09-01,1236,solicitud_visas,LIMA,
+2025-10-01,1750,solicitud_visas,LIMA,
+2025-11-01,1159,solicitud_visas,LIMA,
+2025-12-01,610,solicitud_visas,LIMA,
+2026-01-01,806,solicitud_visas,LIMA,
+2026-02-01,998,solicitud_visas,LIMA,
+2026-03-01,1327,solicitud_visas,LIMA,
+2026-04-01,1020,solicitud_visas,LIMA,
+2026-05-01,1159,solicitud_visas,LIMA,
+2026-06-01,1560,solicitud_visas,LIMA,
+2026-07-01,1140,solicitud_visas,LIMA,
+2026-08-01,1554,solicitud_visas,LIMA,
+2025-01-01,3,solicitud_visas,PIURA,
+2025-02-01,3,solicitud_visas,PIURA,
+2025-03-01,1,solicitud_visas,PIURA,
+2025-05-01,1,solicitud_visas,PIURA,
+2025-06-01,1,solicitud_visas,PIURA,
+2025-08-01,19,solicitud_visas,PIURA,
+2025-09-01,1,solicitud_visas,PIURA,
+2025-10-01,1,solicitud_visas,PIURA,
+2025-12-01,5,solicitud_visas,PIURA,
+2026-01-01,3,solicitud_visas,PIURA,
+2026-02-01,1,solicitud_visas,PIURA,
+2026-03-01,5,solicitud_visas,PIURA,
+2026-04-01,5,solicitud_visas,PIURA,
+2026-05-01,3,solicitud_visas,PIURA,
+2026-06-01,3,solicitud_visas,PIURA,
+2026-08-01,7,solicitud_visas,PIURA,
+2025-01-01,2,solicitud_visas,PTO MALDON.,
+2025-02-01,2,solicitud_visas,PTO MALDON.,
+2025-03-01,1,solicitud_visas,PTO MALDON.,
+2025-04-01,2,solicitud_visas,PTO MALDON.,
+2025-05-01,1,solicitud_visas,PTO MALDON.,
+2025-06-01,5,solicitud_visas,PTO MALDON.,
+2025-07-01,4,solicitud_visas,PTO MALDON.,
+2025-08-01,3,solicitud_visas,PTO MALDON.,
+2025-11-01,5,solicitud_visas,PTO MALDON.,
+2025-12-01,5,solicitud_visas,PTO MALDON.,
+2026-01-01,1,solicitud_visas,PTO MALDON.,
+2026-02-01,2,solicitud_visas,PTO MALDON.,
+2026-03-01,2,solicitud_visas,PTO MALDON.,
+2026-04-01,3,solicitud_visas,PTO MALDON.,
+2026-05-01,2,solicitud_visas,PTO MALDON.,
+2026-06-01,1,solicitud_visas,PTO MALDON.,
+2026-07-01,1,solicitud_visas,PTO MALDON.,
+2026-08-01,1,solicitud_visas,PTO MALDON.,
+2025-02-01,3,solicitud_visas,PUCALLPA,
+2025-03-01,1,solicitud_visas,PUCALLPA,
+2025-04-01,1,solicitud_visas,PUCALLPA,
+2025-05-01,1,solicitud_visas,PUCALLPA,
+2025-07-01,5,solicitud_visas,PUCALLPA,
+2025-08-01,4,solicitud_visas,PUCALLPA,
+2025-10-01,3,solicitud_visas,PUCALLPA,
+2025-11-01,1,solicitud_visas,PUCALLPA,
+2026-01-01,2,solicitud_visas,PUCALLPA,
+2026-03-01,3,solicitud_visas,PUCALLPA,
+2026-05-01,3,solicitud_visas,PUCALLPA,
+2026-06-01,2,solicitud_visas,PUCALLPA,
+2026-08-01,1,solicitud_visas,PUCALLPA,
+2025-02-01,1,solicitud_visas,PUNO,
+2025-04-01,7,solicitud_visas,PUNO,
+2025-06-01,8,solicitud_visas,PUNO,
+2025-07-01,20,solicitud_visas,PUNO,
+2025-08-01,25,solicitud_visas,PUNO,
+2025-09-01,15,solicitud_visas,PUNO,
+2025-10-01,16,solicitud_visas,PUNO,
+2025-11-01,19,solicitud_visas,PUNO,
+2025-12-01,7,solicitud_visas,PUNO,
+2026-01-01,8,solicitud_visas,PUNO,
+2026-02-01,8,solicitud_visas,PUNO,
+2026-03-01,1,solicitud_visas,PUNO,
+2026-04-01,8,solicitud_visas,PUNO,
+2026-05-01,1,solicitud_visas,PUNO,
+2026-06-01,17,solicitud_visas,PUNO,
+2026-07-01,18,solicitud_visas,PUNO,
+2026-08-01,13,solicitud_visas,PUNO,
+2025-01-01,3,solicitud_visas,TACNA,
+2025-02-01,2,solicitud_visas,TACNA,
+2025-03-01,11,solicitud_visas,TACNA,
+2025-04-01,8,solicitud_visas,TACNA,
+2025-05-01,1,solicitud_visas,TACNA,
+2025-06-01,6,solicitud_visas,TACNA,
+2025-07-01,4,solicitud_visas,TACNA,
+2025-08-01,1,solicitud_visas,TACNA,
+2025-09-01,1,solicitud_visas,TACNA,
+2025-10-01,6,solicitud_visas,TACNA,
+2025-11-01,5,solicitud_visas,TACNA,
+2025-12-01,1,solicitud_visas,TACNA,
+2026-01-01,3,solicitud_visas,TACNA,
+2026-03-01,3,solicitud_visas,TACNA,
+2026-04-01,16,solicitud_visas,TACNA,
+2026-05-01,2,solicitud_visas,TACNA,
+2026-06-01,1,solicitud_visas,TACNA,
+2026-07-01,3,solicitud_visas,TACNA,
+2026-08-01,2,solicitud_visas,TACNA,
+2025-03-01,1,solicitud_visas,TARAPOTO,
+2025-04-01,1,solicitud_visas,TARAPOTO,
+2025-05-01,2,solicitud_visas,TARAPOTO,
+2025-06-01,2,solicitud_visas,TARAPOTO,
+2025-08-01,2,solicitud_visas,TARAPOTO,
+2025-10-01,5,solicitud_visas,TARAPOTO,
+2025-12-01,1,solicitud_visas,TARAPOTO,
+2026-01-01,1,solicitud_visas,TARAPOTO,
+2026-02-01,2,solicitud_visas,TARAPOTO,
+2026-03-01,5,solicitud_visas,TARAPOTO,
+2026-04-01,1,solicitud_visas,TARAPOTO,
+2026-05-01,1,solicitud_visas,TARAPOTO,
+2026-06-01,1,solicitud_visas,TARAPOTO,
+2026-07-01,4,solicitud_visas,TARAPOTO,
+2026-08-01,1,solicitud_visas,TARAPOTO,
+2025-01-01,4,solicitud_visas,TRUJILLO,
+2025-03-01,2,solicitud_visas,TRUJILLO,
+2025-06-01,1,solicitud_visas,TRUJILLO,
+2025-07-01,1,solicitud_visas,TRUJILLO,
+2025-08-01,5,solicitud_visas,TRUJILLO,
+2025-09-01,4,solicitud_visas,TRUJILLO,
+2025-10-01,2,solicitud_visas,TRUJILLO,
+2025-11-01,3,solicitud_visas,TRUJILLO,
+2025-12-01,5,solicitud_visas,TRUJILLO,
+2026-01-01,3,solicitud_visas,TRUJILLO,
+2026-02-01,2,solicitud_visas,TRUJILLO,
+2026-03-01,2,solicitud_visas,TRUJILLO,
+2026-04-01,3,solicitud_visas,TRUJILLO,
+2026-05-01,1,solicitud_visas,TRUJILLO,
+2026-06-01,2,solicitud_visas,TRUJILLO,
+2026-07-01,4,solicitud_visas,TRUJILLO,
+2026-08-01,12,solicitud_visas,TRUJILLO,
+2025-01-01,1,solicitud_visas,TUMBES,
+2025-04-01,1,solicitud_visas,TUMBES,
+2025-05-01,1,solicitud_visas,TUMBES,
+2025-10-01,1,solicitud_visas,TUMBES,
+2026-03-01,1,solicitud_visas,TUMBES,
+2026-04-01,1,solicitud_visas,TUMBES,
+2026-05-01,1,solicitud_visas,TUMBES,
+2026-07-01,1,solicitud_visas,TUMBES,
