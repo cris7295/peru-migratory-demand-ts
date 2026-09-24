@@ -1,0 +1,28 @@
+# Este workflow todavía NO hace nada automático.
+# Está preparado para cuando tengamos el pipeline real (limpiar datos -> entrenar Prophet -> reporte).
+# Por ahora solo se puede correr manualmente desde la pestaña "Actions" en GitHub, para probar
+# que el entorno de Python se instala bien. Cuando el pipeline esté listo, se agregan los pasos
+# reales y se puede activar un horario automático (por ejemplo, el día 1 de cada mes).
+
+name: Pipeline mensual (esqueleto)
+
+on:
+  workflow_dispatch:  # solo se ejecuta si alguien lo activa manualmente en GitHub
+
+jobs:
+  setup-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el código del repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Confirmar que todo se instaló bien
+        run: python -c "import pandas, prophet; print('Entorno listo ✅')"

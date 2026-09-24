@@ -1,0 +1,19 @@
+# Datos pesados: no se suben, cada quien los descarga de docs/fuentes_datos.md
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
