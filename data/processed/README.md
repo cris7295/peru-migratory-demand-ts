@@ -1,8 +1,12 @@
-# data/processed/
+# Datos procesados
 
-Aquí van los datos ya limpios y combinados: el panel mensual unificado (columnas `ds`, `y`,
-`tipo_tramite`, `sede`), listo para usarse directamente en los notebooks de modelado.
+- `panel_unificado.csv`: ds, y, tipo_tramite, sede, regimen. Conserva las cantidades
+  del panel original. Desde la revisión 2026-10-23, regimen solo se aplica a cambio_calidad.
+- `carnet_componentes.csv`: ds, sede, componente, y. Dos componentes disjuntos del
+  dataset de carné: `otros_tramites` y `asociado_cambio_calidad`. Su suma recupera
+  el total de carné original. `otros_tramites` coincide con carné en el panel histórico.
 
-A diferencia de `data/raw/`, estos archivos **sí se suben a GitHub**: son pequeños (datos
-agregados por mes, no el detalle fila por fila) y sirven como historial de cómo va cambiando
-el panel a medida que agregamos meses nuevos.
+**No anexar o sumar ambas tablas.** Son vistas alternativas, no eventos adicionales.
+La clasificación no confirma duplicados entre fuentes ni identifica personas únicas.
+No se rellenan meses ausentes con cero. La madurez de agosto de 2026 no está confirmada.
+Reconstrucción: ejecutar `notebooks/02_panel_unificado.ipynb` tras validar los ocho CSV.

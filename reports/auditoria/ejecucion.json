@@ -1,0 +1,52 @@
+{
+  "python": "3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)]",
+  "entradas": [
+    {
+      "archivo": "CAMBIO DE CALIDAD MIGRATORIA 2025.csv",
+      "sha256": "ed29351a285a59735c37023892ceadbb2ac8b8e4554c44b92f36bc61a7d9b607"
+    },
+    {
+      "archivo": "CAMBIO DE CALIDAD MIGRATORIA 2026.csv",
+      "sha256": "8334c6a55c8d999fc09dd6ee13832a9ea19932bccb06b077fcab7a8d92bc5eaf"
+    },
+    {
+      "archivo": "CARNET DE EXTRANJERIA 2025.csv",
+      "sha256": "7cad8da6f22b6c751a5c7d1067b13d534b4fdc282ec9c1a7de39af43f8ebca7d"
+    },
+    {
+      "archivo": "CARNET DE EXTRANJERIA 2026.csv",
+      "sha256": "c59f3e3bb7f67f8d6c3c825e2a18c51556777f0685403ce03a7cd9b7e00d7d6f"
+    },
+    {
+      "archivo": "PRORROGA DE RESIDENCIA 2025.csv",
+      "sha256": "c4523920c7c987c08ca64f26690b06e4a14175e329643b3eab1a96cc3a9f4b42"
+    },
+    {
+      "archivo": "PRORROGA DE RESIDENCIA 2026.csv",
+      "sha256": "da3a5ab06d098398cbb33bc93c1c001f9592f8ab87e594dccdfab7bf75bdb5ac"
+    },
+    {
+      "archivo": "SOLICITUD DE CALIDAD MIGRATORIA (VISAS) 2025.csv",
+      "sha256": "c2894171721f2230fafae4d83c6ca7d359b53b47b34b1ebf29df0113b741e7bf"
+    },
+    {
+      "archivo": "SOLICITUD DE CALIDAD MIGRATORIA (VISAS) 2026.csv",
+      "sha256": "be0996a4cbd4143e38d38f21453dec942716cadd0a95d0d2bf194b333c8906b2"
+    }
+  ],
+  "paquetes": {
+    "pandas": "2.3.3",
+    "numpy": "2.2.6",
+    "statsmodels": "0.15.0",
+    "prophet": "1.4.0",
+    "matplotlib": "3.10.9"
+  },
+  "codigo": {
+    "auditoria.py": "74843169f40c73ad27dbcabe9c62a65bdb624643e04dc78e0976171432fc617e",
+    "calidad.py": "c5823df8466ec726fa9c69c1569ebc2a8a14797ee5fd4c5f8ce1eb7ee3537b5c",
+    "carga.py": "3c395e87acf69fced9fc58d2dd4bb2f1aa8757543d7d2864f4b069d6bd5f1741",
+    "transformacion.py": "f87c717349bbc749341dab871ae69c41b5beb3c013bcafd5fa08c1bbde6cf2c2",
+    "versiones.py": "f284f41150cfd282c83b4fe1286f38e4e8ae4350010eedf957eef231a6d259cf",
+    "__init__.py": "d80698b12e7f82f854fbc5b03f4d340857ae70ed1046c9bbdf722bbb18531d9b"
+  }
+}

@@ -1,6 +1,7 @@
 # Datos pesados: no se suben, cada quien los descarga de docs/fuentes_datos.md
 data/raw/*.csv
 data/raw/*.xlsx
+data/raw/snapshots/
 
 # Python
 __pycache__/

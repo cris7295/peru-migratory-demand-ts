@@ -77,8 +77,19 @@ Estos pasos asumen que ya tienes instalado [Python 3.11](https://www.python.org/
 
 ## Estado del proyecto
 
-En desarrollo. Ver las fases detalladas en [`docs/PRD.md`](docs/PRD.md) para saber en qué
-etapa está el proyecto actualmente.
+En preparación para la fase 4 (modelado). La revisión del 23 de octubre de 2026
+corrige inferencias del EDA y refuerza las validaciones. El PRD sigue pendiente.
+Ver [auditoría previa al modelado](reports/auditoria_pre_modelado.md) y
+[decisiones revisadas](docs/decisiones_modelado.md).
+
+```powershell
+python -m unittest discover -s tests -v
+python -m src.auditoria
+```
+
+La auditoría exporta evidencia y referencias simples; no selecciona un modelo final.
+El panel de carné es un subconjunto: su vista de componentes se guarda aparte y
+no debe sumarse al panel. Ver [datos procesados](data/processed/README.md).
 
 ## Equipo
 

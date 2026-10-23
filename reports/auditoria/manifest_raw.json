@@ -1,0 +1,86 @@
+{
+  "conservado_en_utc": "2026-10-23T20:48:04.777149+00:00",
+  "fecha_descarga": "desconocida",
+  "archivos": [
+    {
+      "archivo": "CAMBIO DE CALIDAD MIGRATORIA 2025.csv",
+      "tipo_tramite": "cambio_calidad",
+      "anio": 2025,
+      "sha256": "ed29351a285a59735c37023892ceadbb2ac8b8e4554c44b92f36bc61a7d9b607",
+      "bytes": 3344006,
+      "fecha_proceso": [
+        "2026-08-05"
+      ]
+    },
+    {
+      "archivo": "CAMBIO DE CALIDAD MIGRATORIA 2026.csv",
+      "tipo_tramite": "cambio_calidad",
+      "anio": 2026,
+      "sha256": "8334c6a55c8d999fc09dd6ee13832a9ea19932bccb06b077fcab7a8d92bc5eaf",
+      "bytes": 2111988,
+      "fecha_proceso": [
+        "2026-09-02"
+      ]
+    },
+    {
+      "archivo": "CARNET DE EXTRANJERIA 2025.csv",
+      "tipo_tramite": "carnet_extranjeria",
+      "anio": 2025,
+      "sha256": "7cad8da6f22b6c751a5c7d1067b13d534b4fdc282ec9c1a7de39af43f8ebca7d",
+      "bytes": 3433527,
+      "fecha_proceso": [
+        "2026-08-05"
+      ]
+    },
+    {
+      "archivo": "CARNET DE EXTRANJERIA 2026.csv",
+      "tipo_tramite": "carnet_extranjeria",
+      "anio": 2026,
+      "sha256": "c59f3e3bb7f67f8d6c3c825e2a18c51556777f0685403ce03a7cd9b7e00d7d6f",
+      "bytes": 2347227,
+      "fecha_proceso": [
+        "2026-09-02"
+      ]
+    },
+    {
+      "archivo": "PRORROGA DE RESIDENCIA 2025.csv",
+      "tipo_tramite": "prorroga_residencia",
+      "anio": 2025,
+      "sha256": "c4523920c7c987c08ca64f26690b06e4a14175e329643b3eab1a96cc3a9f4b42",
+      "bytes": 2649030,
+      "fecha_proceso": [
+        "2026-08-05"
+      ]
+    },
+    {
+      "archivo": "PRORROGA DE RESIDENCIA 2026.csv",
+      "tipo_tramite": "prorroga_residencia",
+      "anio": 2026,
+      "sha256": "da3a5ab06d098398cbb33bc93c1c001f9592f8ab87e594dccdfab7bf75bdb5ac",
+      "bytes": 1943222,
+      "fecha_proceso": [
+        "2026-09-02"
+      ]
+    },
+    {
+      "archivo": "SOLICITUD DE CALIDAD MIGRATORIA (VISAS) 2025.csv",
+      "tipo_tramite": "solicitud_visas",
+      "anio": 2025,
+      "sha256": "c2894171721f2230fafae4d83c6ca7d359b53b47b34b1ebf29df0113b741e7bf",
+      "bytes": 427678,
+      "fecha_proceso": [
+        "2026-08-05"
+      ]
+    },
+    {
+      "archivo": "SOLICITUD DE CALIDAD MIGRATORIA (VISAS) 2026.csv",
+      "tipo_tramite": "solicitud_visas",
+      "anio": 2026,
+      "sha256": "be0996a4cbd4143e38d38f21453dec942716cadd0a95d0d2bf194b333c8906b2",
+      "bytes": 306966,
+      "fecha_proceso": [
+        "2026-09-02"
+      ]
+    }
+  ]
+}

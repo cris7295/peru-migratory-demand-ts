@@ -1,0 +1,11 @@
+{
+  "filas_raw": 113440,
+  "filas_panel": 1375,
+  "cantidad_raw": 1073704,
+  "cantidad_panel": 952361,
+  "cantidad_componente_cambio_carnet": 121343,
+  "nota": "Sumas contables entre fuentes: no equivalen a personas únicas ni acreditan duplicación.",
+  "primer_mes": "2025-01-01",
+  "ultimo_mes": "2026-08-01",
+  "evaluacion": "Exploratoria retrospectiva sobre una instantánea; no valida datos disponibles en tiempo real."
+}

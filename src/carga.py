@@ -10,9 +10,10 @@ Convenciones de los archivos fuente:
 - Columnas comunes: SEDE_ATENCION, ANIO_TRAMITE, MES_TRAMITE, CANTIDAD
 """
 
-import os
 from pathlib import Path
 import pandas as pd
+
+from src.calidad import validar_raw
 
 
 # Directorio raíz del repositorio (dos niveles arriba de src/)
@@ -72,6 +73,7 @@ def cargar_csv_raw(tipo_tramite: str, anio: int, raw_dir: Path = RAW_DIR) -> pd.
 
     df = pd.read_csv(ruta, sep="|", encoding="utf-8", dtype=str)
     df["tipo_tramite"] = tipo_tramite
+    validar_raw(df, anio_esperado=anio)
     return df
 
 
@@ -93,15 +95,14 @@ def cargar_todos_los_raw(anios: list[int] = None, raw_dir: Path = RAW_DIR) -> pd
     """
     if anios is None:
         anios = [2025, 2026]
+    if not anios or len(set(anios)) != len(anios):
+        raise ValueError("Especifica al menos un año y no repitas años.")
 
     partes = []
     for tipo in TRAMITES:
         for anio in anios:
-            try:
-                df = cargar_csv_raw(tipo, anio, raw_dir=raw_dir)
-                partes.append(df)
-            except FileNotFoundError as e:
-                print(f"[ADVERTENCIA] {e}")
+            # Un conjunto incompleto no debe publicarse como panel completo.
+            partes.append(cargar_csv_raw(tipo, anio, raw_dir=raw_dir))
 
     if not partes:
         raise RuntimeError("No se pudo cargar ningún archivo CSV raw.")
