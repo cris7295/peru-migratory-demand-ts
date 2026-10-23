@@ -1,104 +1,110 @@
-# Decisiones de Modelado — Prophet
-## Proyecto: Predicción de Demanda de Trámites Migratorios — Perú
+# Decisiones de modelado — revisión técnica previa a fase 4
 
-**Versión:** 1.0 · **Fecha:** 2026-09-24 · **Estado:** Acordado (Fase 3 completada)
+Revisión: 2026-10-23. Sustituye las afirmaciones no sustentadas de la versión 1.0
+(2026-09-24), conservada en Git. Las correcciones de evidencia se implementan en
+esta rama; las propuestas de horizonte y selección aún no son resultados validados
+ni se presentan como acuerdo nuevo de ambos integrantes del equipo.
 
-> Este documento se actualiza solo por decisión explícita de ambos integrantes del equipo.
-> Sirve como referencia fija para implementar los modelos en la Fase 4.
+## Objetivo y alcance
 
----
+Predecir conteos mensuales por fuente, distinguiendo sus eventos. Verificación directa
+posterior en navegador (2026-10-23): cambio de calidad, visas y prórroga miden trámites
+presentados; carné mide documentos emitidos. La tabla pública de campos de cada
+página confirma estas definiciones; los XLSX de diccionario quedan localizados.
+No interpretar la suma como personas únicas, flujo migratorio o demanda insatisfecha.
+La elección operativa entre carné total y un subconjunto sigue pendiente.
 
-## Tabla de decisiones por tipo de trámite
+El panel histórico conserva cuatro categorías. `carnet_extranjeria` excluye el subtipo
+CAMBIO DE CALIDAD MIGRATORIA y debe rotularse así, no como carné total o deduplicado.
+`carnet_componentes.csv` conserva ese subtipo y los demás en dos componentes disjuntos.
+Su suma recupera todo el carné de la fuente. No sumar esta tabla al panel histórico.
+La coincidencia del nombre del procedimiento no prueba duplicación de eventos entre fuentes.
+Comparar errores de carné total y filtrado no decide cuál es el objetivo correcto:
+son variables distintas, que deben definirse por el uso operativo.
 
-| Parámetro | `prorroga_residencia` | `cambio_calidad` | `carnet_extranjeria` | `solicitud_visas` |
-|---|---|---|---|---|
-| **Datos de entrada** | Panel completo (20 meses, ene-2025 a ago-2026) | Solo `regimen = post_2026` (8 meses: ene–ago 2026) | 19 meses (ene-2025 a jul-2026, excl. ago-2026 por subreporte) | Panel completo (20 meses, ene-2025 a ago-2026) |
-| **`yearly_seasonality`** | `True` | `False` | Pendiente de evaluar (\*) | Pendiente de evaluar (\*) |
-| **Granularidad del modelo** | Por sede (mínimo top-5: Lima, Trujillo, Arequipa, Piura, Chiclayo) | Nacional agregado (por ahora) | Nacional agregado (por ahora) | Nacional agregado |
-| **Regresor externo** | Ninguno | Ninguno | Ninguno | Ninguno (ver nota \*\*) |
-| **Horizonte de pronóstico** | 6 meses | 6 meses | 6 meses | 6 meses |
-| **Columna `regimen`** | No aplica | Separar en dos series; modelar solo `post_2026` | No aplica (no separar; quiebre es artefactual) | No aplica |
+## Evidencia corregida
 
----
+- Prórroga: enero elevado en las cinco sedes principales. En 2025 es el máximo
+  en cuatro; en Piura diciembre registra 1.096 frente a 964 de enero. No hay valle
+  común en septiembre. Se comparan años separados, sin sumar meses con distinta cobertura.
+- Cambio de calidad: caída observada de 12.168 a 5.872 entre diciembre de 2025 y
+  enero de 2026 (−51,74 %). Causa y permanencia sin confirmar; se retira la atribución normativa.
+- Carné filtrado: enero–julio de 2026 cambia +0,15 % respecto de enero–julio de 2025;
+  enero–agosto cambia −8,04 %. Agosto de 2025 fue alto (10.340) y agosto de 2026
+  bajo (5.454). Ninguno queda declarado error, outlier eliminable o mes incompleto.
+- Visas: Lima representa 94,43 % del volumen del panel, no 93,5 %.
+- Datos: 20 meses nacionales. Volumen alto no aumenta el número de observaciones
+  temporales. Modelar por sede no reduce necesariamente los meses: las cinco sedes
+  de prórroga tienen 20 cada una; reduce el volumen por serie.
 
-## Justificación de cada decisión
+## Diseño de experimentos
 
-### Prórroga de Residencia
+| Serie | Preparación inicial | Candidatos y límites |
+|---|---|---|
+| Prórroga, cinco sedes | 20 meses por sede | Referencia anual, último valor, promedio reciente y Prophet con estacionalidad anual parsimoniosa; no asumir superioridad |
+| Cambio de calidad, nacional | Escenario principal desde enero de 2026 | Promedio reciente, último valor y Prophet sin estacionalidad anual; ocho meses limitan evaluación y extrapolación |
+| Carné filtrado, nacional | Historia continua; escenarios con y sin agosto | Comparación de sensibilidad, no selección de observaciones para mejorar el error; evitar separar por régimen |
+| Carné total/componentes | Vista alternativa conservada | Definir primero el objetivo administrativo; luego evaluar cada objetivo por separado |
+| Visas, nacional | 20 meses | Referencias simples y Prophet con/sin componente anual regularizado; ADF no decide estacionalidad |
 
-- **Datos completos (20 meses):** No tiene quiebre estructural confirmado entre 2025 y 2026.
-  La serie es homogénea y el nivel es estable.
-- **`yearly_seasonality=True`:** Confirmado en Análisis A del EDA (Fase 3). El pico de enero
-  es sistémico en **todas las sedes** (ratios Ene/Promedio entre 1.41x y 1.90x). Con 20 meses
-  (casi 2 ciclos anuales), Prophet puede estimar la estacionalidad anual con confianza razonable.
-- **Modelo por sede:** Cada sede tiene suficiente volumen y señal estacional propia para un
-  modelo individual. Lima concentra el 77.8% del volumen, pero las sedes regionales también
-  son modelables.
+El top-5 de prórroga representa 90,40 % del volumen y no constituye el total nacional.
+Si se necesita un total, modelar el resto o entrenar/evaluar una serie nacional explícita.
+Definir las sedes por alcance operativo antes del backtest; no seleccionarlas usando el futuro.
 
-### Cambio de Calidad Migratoria
+## Horizonte y validación: propuesta para fase 4
 
-- **Solo `post_2026` (8 meses):** Quiebre estructural severo confirmado en Análisis C del EDA.
-  La caída dic-2025 → ene-2026 fue del **−51.7%** y el nuevo nivel promedio (5,867) representa
-  solo el 61.5% del promedio 2025 (9,546). Excluir agosto 2026 no altera esta caída (−38.3% en 7m),
-  lo que confirma que el quiebre es estructural y normativo, no un problema de reporte.
-  Incluir datos pre-2026 sesgaría el modelo con un nivel de demanda que ya no existe.
-- **`yearly_seasonality=False`:** Con solo 8 meses de datos en el período `post_2026`, Prophet
-  no tiene información suficiente para estimar una estacionalidad anual confiable.
-- **Nacional agregado:** Con 8 meses de historia, la desagregación por sede reduciría aún
-  más los datos disponibles por serie. Se inicia con el modelo nacional.
+La versión 1.0 proponía seis meses. Propuesta revisada: prioridad operativa a uno y
+ dos meses, evaluar también tres; seis solo como escenario exploratorio mientras
+no exista evidencia suficiente. No existe una regla universal que haga tres meses
+confiables y seis imposibles. El nivel de respaldo depende de cada serie y horizonte.
 
-### Carné de Extranjería (neto, Regla 1 ya aplicada)
+- Frecuencia mensual `MS`, sin componentes diarios o semanales.
+- Cortes cronológicos explícitos y ventanas de entrenamiento expansivas; no partición aleatoria.
+- Comparar modelos sobre exactamente el mismo objetivo, cortes y meses futuros.
+- Reportar MAE, WAPE, sesgo y número de errores por horizonte; MAPE como complemento
+  cuando sus denominadores lo permitan. Intervalos: reportar cobertura observada y límites.
+- La selección ocurre en validación; reservar prueba temporal final cuando la historia
+  lo permita. Si se explora repetidamente el último tramo, ya no es una prueba independiente.
+- Con cuatro meses iniciales de cambio de calidad solo existen cuatro errores a h=1,
+  tres a h=2 y dos a h=3. Los errores de cortes solapados tampoco son réplicas independientes.
+- La referencia de promedio de tres meses obtuvo WAPE 3,42 % en cuatro errores a h=1.
+  No trasladar ese resultado a otros horizontes ni declararlo ganador frente a Prophet,
+  que aún no se ha entrenado. Si una referencia simple gana consistentemente bajo
+  el protocolo acordado, puede ser el modelo final.
+- Ajustar con pocos parámetros; 19–20 meses no garantizan identificar bien la
+  estacionalidad anual. Evitar búsqueda extensa de hiperparámetros sobre pocos errores.
+- Las métricas actuales usan una sola instantánea revisada: no reconstruyen qué se
+  conocía en cada corte. Conservar versiones para una futura evaluación en tiempo real.
 
-- **19 meses de historia (ene-2025 a jul-2026, excluyendo ago-2026):**
-  El análisis extendido (C.2) demostró que el supuesto "quiebre estructural" en Carné es en gran
-  medida un **artefacto de rezago de reporte**:
-  1. En enero de 2026 la serie no cayó, sino que subió (+4.5% vs dic-2025: 7,608 → 7,949 trámites).
-  2. La caída en el promedio anual 2026 está concentrada en los meses finales, especialmente
-     agosto-2026 (caída de −15.9% vs julio), debido al tiempo administrativo que toma la emisión y
-     entrega física del documento tras el otorgamiento del cambio de calidad.
-  3. Al excluir agosto-2026, la diferencia promedio vs 2025 baja a solo **−5.3%** (7,080 vs 7,477);
-     y excluyendo julio y agosto baja a **−4.0%** (7,179). Esta variación está dentro del rango normal
-     de fluctuación mensual y no justifica descartar 12 meses valiosos de historia.
-  4. **Decisión:** Mantener 19 meses continuos (descartando únicamente agosto-2026 por incompleto) y
-     **no separar por régimen**.
-- **`yearly_seasonality` — Pendiente de evaluar (\*):**
-  Al conservar 19 meses continuos, se dispone de masa crítica suficiente para probar empíricamente
-  `yearly_seasonality=True` vs `yearly_seasonality=False` mediante validación cruzada en la Fase 4,
-  en lugar de forzarlo a `False`.
-- **Nacional agregado:** Al no fragmentar la serie por régimen, se preserva mayor robustez para el
-  ajuste nacional antes de considerar aperturas por sede.
+## Fechas de corte y revisiones
 
-### Solicitud de Calidad Migratoria (Visas)
+La fecha de proceso de los archivos 2026 es 2026-09-02; llegan hasta agosto.
+No se ha confirmado una versión posterior. No inferir disponibilidad de septiembre
+por la fecha actual ni identificar automáticamente el último mes como completo.
 
-- **Datos completos (20 meses):** Serie sin quiebre estructural. Nivel relativamente estable
-  durante todo el período.
-- **`yearly_seasonality` — Pendiente (\*):** El Análisis B del EDA mostró que `solicitud_visas`
-  no tiene estacionariedad ADF robusta en niveles ni en primeras diferencias (p=0.052).
-  En Fase 4 se probará con `yearly_seasonality=True` y `False`, comparando los errores
-  de validación cruzada, antes de decidir.
-- **Nacional agregado:** El volumen total es pequeño (23,905 trámites en 20 meses) y Lima
-  concentra el 93.5% del volumen. No tiene sentido modelar por sede.
+Propuesta de control: último mes con madurez no verificada = provisional, como
+etiqueta conservadora, no como demostración de subreporte. Observarlo en una descarga
+posterior no garantiza cierre: verificar fecha de proceso, versión y política de revisión.
+Una subida confirma revisión al alza; podría deberse a carga tardía, correcciones o
+reclasificación. La ausencia de cambios no demuestra que la demanda haya bajado realmente.
 
----
+Un corte común facilita comparar modelos, pero debe tener evidencia de madurez o
+etiquetarse como provisional. La fecha de ejecución y el horizonte desde el corte se
+registran por separado. Corte septiembre + tres meses = octubre–diciembre; enero
+queda fuera y se incorpora en la siguiente emisión o en un horizonte de cuatro meses.
 
-## Notas adicionales
+## Granger y ADF
 
-**(\*) `yearly_seasonality` de `solicitud_visas`:**
-Se evaluará en Fase 4 mediante `prophet.diagnostics.cross_validation()` con horizontes
-de 1 a 3 meses. La versión que minimice el MAPE en el set de validación será la elegida.
+Resultados exploratorios, no prueba de causalidad. Granger tiene una señal en lag 2
+(p≈0,024), con muestra pequeña, quiebre de nivel y múltiples pruebas. No incorporar
+regresor externo en la primera comparación. No rechazar ADF no prueba no estacionariedad.
+Revisión propuesta cuando estén disponibles datos hasta diciembre de 2026, con
+cobertura y revisiones comprobadas; ese hito no garantiza potencia ni significancia.
+No se afirma que 24 o 30 observaciones basten por sí mismas.
 
-**(\*\*) Regresor externo (Granger):**
-El test de Granger en Análisis B del EDA mostró una señal marginalmente significativa
-(F-test p=0.024 en lag 2) para `visas → cambio_calidad`, pero la muestra es demasiado
-pequeña (19 obs.) para ser concluyente. **Decisión: no incorporar regresor externo en
-Fase 4.** Revisión programada cuando haya ≥ 24 meses de datos (`post_2026`).
+## Fuentes técnicas
 
----
-
-## Referencias cruzadas
-
-| Documento | Contenido |
-|---|---|
-| `notebooks/03_eda_avanzado.ipynb` | Análisis A, B, C que sustentan estas decisiones |
-| `reports/issues_fase3.md` | Issues de GitHub derivados del EDA |
-| `data/processed/panel_unificado.csv` | Fuente de datos del modelado |
-| `docs/fuentes_datos.md` | Origen y descripción de los datos raw |
+- [Prophet: datos mensuales](https://facebook.github.io/prophet/docs/non-daily_data.html).
+- [Prophet: validación temporal](https://facebook.github.io/prophet/docs/diagnostics.html).
+- Evidencia local: `notebooks/03_eda_avanzado.ipynb`, `reports/auditoria/`.
+- Auditoría y limitaciones externas: `reports/auditoria_pre_modelado.md`.

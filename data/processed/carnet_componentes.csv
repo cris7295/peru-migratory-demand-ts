@@ -1,0 +1,721 @@
+ds,sede,componente,y
+2025-01-01,AREQUIPA,asociado_cambio_calidad,419
+2025-01-01,AREQUIPA,otros_tramites,321
+2025-01-01,CHICLAYO,asociado_cambio_calidad,242
+2025-01-01,CHICLAYO,otros_tramites,103
+2025-01-01,CHIMBOTE,asociado_cambio_calidad,235
+2025-01-01,CHIMBOTE,otros_tramites,83
+2025-01-01,CUSCO,asociado_cambio_calidad,131
+2025-01-01,CUSCO,otros_tramites,92
+2025-01-01,HUANCAYO,asociado_cambio_calidad,105
+2025-01-01,HUANCAYO,otros_tramites,69
+2025-01-01,ICA,asociado_cambio_calidad,167
+2025-01-01,ICA,otros_tramites,23
+2025-01-01,ILO,asociado_cambio_calidad,49
+2025-01-01,ILO,otros_tramites,21
+2025-01-01,IQUITOS,asociado_cambio_calidad,81
+2025-01-01,IQUITOS,otros_tramites,18
+2025-01-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,250
+2025-01-01,JEFATURA ZONAL CALLAO,otros_tramites,89
+2025-01-01,LIMA,asociado_cambio_calidad,7145
+2025-01-01,LIMA,otros_tramites,4959
+2025-01-01,PIURA,asociado_cambio_calidad,394
+2025-01-01,PIURA,otros_tramites,143
+2025-01-01,PTO MALDON.,asociado_cambio_calidad,96
+2025-01-01,PTO MALDON.,otros_tramites,39
+2025-01-01,PUCALLPA,asociado_cambio_calidad,111
+2025-01-01,PUCALLPA,otros_tramites,62
+2025-01-01,PUNO,asociado_cambio_calidad,125
+2025-01-01,PUNO,otros_tramites,16
+2025-01-01,TACNA,asociado_cambio_calidad,81
+2025-01-01,TACNA,otros_tramites,51
+2025-01-01,TARAPOTO,asociado_cambio_calidad,61
+2025-01-01,TARAPOTO,otros_tramites,44
+2025-01-01,TRUJILLO,asociado_cambio_calidad,472
+2025-01-01,TRUJILLO,otros_tramites,258
+2025-01-01,TUMBES,asociado_cambio_calidad,140
+2025-01-01,TUMBES,otros_tramites,40
+2025-02-01,AREQUIPA,asociado_cambio_calidad,361
+2025-02-01,AREQUIPA,otros_tramites,320
+2025-02-01,CHICLAYO,asociado_cambio_calidad,271
+2025-02-01,CHICLAYO,otros_tramites,151
+2025-02-01,CHIMBOTE,asociado_cambio_calidad,262
+2025-02-01,CHIMBOTE,otros_tramites,92
+2025-02-01,CUSCO,asociado_cambio_calidad,102
+2025-02-01,CUSCO,otros_tramites,78
+2025-02-01,HUANCAYO,asociado_cambio_calidad,105
+2025-02-01,HUANCAYO,otros_tramites,49
+2025-02-01,ICA,asociado_cambio_calidad,155
+2025-02-01,ICA,otros_tramites,95
+2025-02-01,ILO,asociado_cambio_calidad,28
+2025-02-01,ILO,otros_tramites,24
+2025-02-01,IQUITOS,asociado_cambio_calidad,103
+2025-02-01,IQUITOS,otros_tramites,23
+2025-02-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,207
+2025-02-01,JEFATURA ZONAL CALLAO,otros_tramites,113
+2025-02-01,LIMA,asociado_cambio_calidad,5424
+2025-02-01,LIMA,otros_tramites,5496
+2025-02-01,PIURA,asociado_cambio_calidad,285
+2025-02-01,PIURA,otros_tramites,126
+2025-02-01,PTO MALDON.,asociado_cambio_calidad,64
+2025-02-01,PTO MALDON.,otros_tramites,21
+2025-02-01,PUCALLPA,asociado_cambio_calidad,115
+2025-02-01,PUCALLPA,otros_tramites,50
+2025-02-01,PUNO,asociado_cambio_calidad,71
+2025-02-01,PUNO,otros_tramites,12
+2025-02-01,TACNA,asociado_cambio_calidad,69
+2025-02-01,TACNA,otros_tramites,58
+2025-02-01,TARAPOTO,asociado_cambio_calidad,72
+2025-02-01,TARAPOTO,otros_tramites,39
+2025-02-01,TRUJILLO,asociado_cambio_calidad,366
+2025-02-01,TRUJILLO,otros_tramites,229
+2025-02-01,TUMBES,asociado_cambio_calidad,95
+2025-02-01,TUMBES,otros_tramites,42
+2025-03-01,AREQUIPA,asociado_cambio_calidad,288
+2025-03-01,AREQUIPA,otros_tramites,279
+2025-03-01,CHICLAYO,asociado_cambio_calidad,278
+2025-03-01,CHICLAYO,otros_tramites,105
+2025-03-01,CHIMBOTE,asociado_cambio_calidad,227
+2025-03-01,CHIMBOTE,otros_tramites,88
+2025-03-01,CUSCO,asociado_cambio_calidad,127
+2025-03-01,CUSCO,otros_tramites,96
+2025-03-01,HUANCAYO,asociado_cambio_calidad,95
+2025-03-01,HUANCAYO,otros_tramites,61
+2025-03-01,ICA,asociado_cambio_calidad,210
+2025-03-01,ICA,otros_tramites,150
+2025-03-01,ILO,asociado_cambio_calidad,27
+2025-03-01,ILO,otros_tramites,25
+2025-03-01,IQUITOS,asociado_cambio_calidad,134
+2025-03-01,IQUITOS,otros_tramites,34
+2025-03-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,267
+2025-03-01,JEFATURA ZONAL CALLAO,otros_tramites,119
+2025-03-01,LIMA,asociado_cambio_calidad,5709
+2025-03-01,LIMA,otros_tramites,6406
+2025-03-01,PIURA,asociado_cambio_calidad,267
+2025-03-01,PIURA,otros_tramites,125
+2025-03-01,PTO MALDON.,asociado_cambio_calidad,41
+2025-03-01,PTO MALDON.,otros_tramites,29
+2025-03-01,PUCALLPA,asociado_cambio_calidad,108
+2025-03-01,PUCALLPA,otros_tramites,50
+2025-03-01,PUNO,asociado_cambio_calidad,51
+2025-03-01,PUNO,otros_tramites,18
+2025-03-01,TACNA,asociado_cambio_calidad,111
+2025-03-01,TACNA,otros_tramites,51
+2025-03-01,TARAPOTO,asociado_cambio_calidad,88
+2025-03-01,TARAPOTO,otros_tramites,38
+2025-03-01,TRUJILLO,asociado_cambio_calidad,353
+2025-03-01,TRUJILLO,otros_tramites,232
+2025-03-01,TUMBES,asociado_cambio_calidad,147
+2025-03-01,TUMBES,otros_tramites,32
+2025-04-01,AREQUIPA,asociado_cambio_calidad,224
+2025-04-01,AREQUIPA,otros_tramites,245
+2025-04-01,CHICLAYO,asociado_cambio_calidad,279
+2025-04-01,CHICLAYO,otros_tramites,129
+2025-04-01,CHIMBOTE,asociado_cambio_calidad,227
+2025-04-01,CHIMBOTE,otros_tramites,100
+2025-04-01,CUSCO,asociado_cambio_calidad,147
+2025-04-01,CUSCO,otros_tramites,112
+2025-04-01,HUANCAYO,asociado_cambio_calidad,67
+2025-04-01,HUANCAYO,otros_tramites,62
+2025-04-01,ICA,asociado_cambio_calidad,265
+2025-04-01,ICA,otros_tramites,119
+2025-04-01,ILO,asociado_cambio_calidad,40
+2025-04-01,ILO,otros_tramites,20
+2025-04-01,IQUITOS,asociado_cambio_calidad,84
+2025-04-01,IQUITOS,otros_tramites,31
+2025-04-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,221
+2025-04-01,JEFATURA ZONAL CALLAO,otros_tramites,116
+2025-04-01,LIMA,asociado_cambio_calidad,4858
+2025-04-01,LIMA,otros_tramites,5422
+2025-04-01,PIURA,asociado_cambio_calidad,268
+2025-04-01,PIURA,otros_tramites,119
+2025-04-01,PTO MALDON.,asociado_cambio_calidad,57
+2025-04-01,PTO MALDON.,otros_tramites,18
+2025-04-01,PUCALLPA,asociado_cambio_calidad,112
+2025-04-01,PUCALLPA,otros_tramites,47
+2025-04-01,PUNO,asociado_cambio_calidad,61
+2025-04-01,PUNO,otros_tramites,14
+2025-04-01,TACNA,asociado_cambio_calidad,91
+2025-04-01,TACNA,otros_tramites,42
+2025-04-01,TARAPOTO,asociado_cambio_calidad,57
+2025-04-01,TARAPOTO,otros_tramites,40
+2025-04-01,TRUJILLO,asociado_cambio_calidad,281
+2025-04-01,TRUJILLO,otros_tramites,216
+2025-04-01,TUMBES,asociado_cambio_calidad,70
+2025-04-01,TUMBES,otros_tramites,31
+2025-05-01,AREQUIPA,asociado_cambio_calidad,339
+2025-05-01,AREQUIPA,otros_tramites,250
+2025-05-01,CHICLAYO,asociado_cambio_calidad,267
+2025-05-01,CHICLAYO,otros_tramites,105
+2025-05-01,CHIMBOTE,asociado_cambio_calidad,188
+2025-05-01,CHIMBOTE,otros_tramites,66
+2025-05-01,CUSCO,asociado_cambio_calidad,147
+2025-05-01,CUSCO,otros_tramites,78
+2025-05-01,HUANCAYO,asociado_cambio_calidad,95
+2025-05-01,HUANCAYO,otros_tramites,54
+2025-05-01,ICA,asociado_cambio_calidad,220
+2025-05-01,ICA,otros_tramites,140
+2025-05-01,ILO,asociado_cambio_calidad,31
+2025-05-01,ILO,otros_tramites,13
+2025-05-01,IQUITOS,asociado_cambio_calidad,111
+2025-05-01,IQUITOS,otros_tramites,19
+2025-05-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,164
+2025-05-01,JEFATURA ZONAL CALLAO,otros_tramites,113
+2025-05-01,LIMA,asociado_cambio_calidad,3935
+2025-05-01,LIMA,otros_tramites,5677
+2025-05-01,PIURA,asociado_cambio_calidad,311
+2025-05-01,PIURA,otros_tramites,135
+2025-05-01,PTO MALDON.,asociado_cambio_calidad,72
+2025-05-01,PTO MALDON.,otros_tramites,25
+2025-05-01,PUCALLPA,asociado_cambio_calidad,95
+2025-05-01,PUCALLPA,otros_tramites,61
+2025-05-01,PUNO,asociado_cambio_calidad,66
+2025-05-01,PUNO,otros_tramites,13
+2025-05-01,TACNA,asociado_cambio_calidad,94
+2025-05-01,TACNA,otros_tramites,36
+2025-05-01,TARAPOTO,asociado_cambio_calidad,69
+2025-05-01,TARAPOTO,otros_tramites,40
+2025-05-01,TRUJILLO,asociado_cambio_calidad,237
+2025-05-01,TRUJILLO,otros_tramites,196
+2025-05-01,TUMBES,asociado_cambio_calidad,96
+2025-05-01,TUMBES,otros_tramites,45
+2025-06-01,AREQUIPA,asociado_cambio_calidad,221
+2025-06-01,AREQUIPA,otros_tramites,248
+2025-06-01,CHICLAYO,asociado_cambio_calidad,341
+2025-06-01,CHICLAYO,otros_tramites,143
+2025-06-01,CHIMBOTE,asociado_cambio_calidad,245
+2025-06-01,CHIMBOTE,otros_tramites,82
+2025-06-01,CUSCO,asociado_cambio_calidad,111
+2025-06-01,CUSCO,otros_tramites,97
+2025-06-01,HUANCAYO,asociado_cambio_calidad,81
+2025-06-01,HUANCAYO,otros_tramites,57
+2025-06-01,ICA,asociado_cambio_calidad,245
+2025-06-01,ICA,otros_tramites,128
+2025-06-01,ILO,asociado_cambio_calidad,35
+2025-06-01,ILO,otros_tramites,17
+2025-06-01,IQUITOS,asociado_cambio_calidad,129
+2025-06-01,IQUITOS,otros_tramites,32
+2025-06-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,140
+2025-06-01,JEFATURA ZONAL CALLAO,otros_tramites,116
+2025-06-01,LIMA,asociado_cambio_calidad,3611
+2025-06-01,LIMA,otros_tramites,4727
+2025-06-01,PIURA,asociado_cambio_calidad,413
+2025-06-01,PIURA,otros_tramites,70
+2025-06-01,PTO MALDON.,asociado_cambio_calidad,67
+2025-06-01,PTO MALDON.,otros_tramites,25
+2025-06-01,PUCALLPA,asociado_cambio_calidad,135
+2025-06-01,PUCALLPA,otros_tramites,73
+2025-06-01,PUNO,asociado_cambio_calidad,78
+2025-06-01,PUNO,otros_tramites,18
+2025-06-01,TACNA,asociado_cambio_calidad,168
+2025-06-01,TACNA,otros_tramites,52
+2025-06-01,TARAPOTO,asociado_cambio_calidad,67
+2025-06-01,TARAPOTO,otros_tramites,32
+2025-06-01,TRUJILLO,asociado_cambio_calidad,401
+2025-06-01,TRUJILLO,otros_tramites,202
+2025-06-01,TUMBES,asociado_cambio_calidad,104
+2025-06-01,TUMBES,otros_tramites,32
+2025-07-01,AREQUIPA,asociado_cambio_calidad,201
+2025-07-01,AREQUIPA,otros_tramites,217
+2025-07-01,CHICLAYO,asociado_cambio_calidad,346
+2025-07-01,CHICLAYO,otros_tramites,110
+2025-07-01,CHIMBOTE,asociado_cambio_calidad,159
+2025-07-01,CHIMBOTE,otros_tramites,70
+2025-07-01,CUSCO,asociado_cambio_calidad,92
+2025-07-01,CUSCO,otros_tramites,88
+2025-07-01,HUANCAYO,asociado_cambio_calidad,68
+2025-07-01,HUANCAYO,otros_tramites,58
+2025-07-01,ICA,asociado_cambio_calidad,250
+2025-07-01,ICA,otros_tramites,183
+2025-07-01,ILO,asociado_cambio_calidad,39
+2025-07-01,ILO,otros_tramites,20
+2025-07-01,IQUITOS,asociado_cambio_calidad,104
+2025-07-01,IQUITOS,otros_tramites,37
+2025-07-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,524
+2025-07-01,JEFATURA ZONAL CALLAO,otros_tramites,158
+2025-07-01,LIMA,asociado_cambio_calidad,4382
+2025-07-01,LIMA,otros_tramites,6487
+2025-07-01,PIURA,asociado_cambio_calidad,296
+2025-07-01,PIURA,otros_tramites,136
+2025-07-01,PTO MALDON.,asociado_cambio_calidad,53
+2025-07-01,PTO MALDON.,otros_tramites,12
+2025-07-01,PUCALLPA,asociado_cambio_calidad,97
+2025-07-01,PUCALLPA,otros_tramites,67
+2025-07-01,PUNO,asociado_cambio_calidad,68
+2025-07-01,PUNO,otros_tramites,17
+2025-07-01,TACNA,asociado_cambio_calidad,104
+2025-07-01,TACNA,otros_tramites,42
+2025-07-01,TARAPOTO,asociado_cambio_calidad,74
+2025-07-01,TARAPOTO,otros_tramites,47
+2025-07-01,TRUJILLO,asociado_cambio_calidad,272
+2025-07-01,TRUJILLO,otros_tramites,221
+2025-07-01,TUMBES,asociado_cambio_calidad,128
+2025-07-01,TUMBES,otros_tramites,31
+2025-08-01,AREQUIPA,asociado_cambio_calidad,193
+2025-08-01,AREQUIPA,otros_tramites,228
+2025-08-01,CHICLAYO,asociado_cambio_calidad,242
+2025-08-01,CHICLAYO,otros_tramites,120
+2025-08-01,CHIMBOTE,asociado_cambio_calidad,126
+2025-08-01,CHIMBOTE,otros_tramites,93
+2025-08-01,CUSCO,asociado_cambio_calidad,88
+2025-08-01,CUSCO,otros_tramites,106
+2025-08-01,HUANCAYO,asociado_cambio_calidad,61
+2025-08-01,HUANCAYO,otros_tramites,79
+2025-08-01,ICA,asociado_cambio_calidad,198
+2025-08-01,ICA,otros_tramites,264
+2025-08-01,ILO,asociado_cambio_calidad,37
+2025-08-01,ILO,otros_tramites,16
+2025-08-01,IQUITOS,asociado_cambio_calidad,125
+2025-08-01,IQUITOS,otros_tramites,38
+2025-08-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,134
+2025-08-01,JEFATURA ZONAL CALLAO,otros_tramites,193
+2025-08-01,LIMA,asociado_cambio_calidad,3525
+2025-08-01,LIMA,otros_tramites,8375
+2025-08-01,PIURA,asociado_cambio_calidad,286
+2025-08-01,PIURA,otros_tramites,127
+2025-08-01,PTO MALDON.,asociado_cambio_calidad,60
+2025-08-01,PTO MALDON.,otros_tramites,36
+2025-08-01,PUCALLPA,asociado_cambio_calidad,111
+2025-08-01,PUCALLPA,otros_tramites,230
+2025-08-01,PUNO,asociado_cambio_calidad,38
+2025-08-01,PUNO,otros_tramites,13
+2025-08-01,TACNA,asociado_cambio_calidad,103
+2025-08-01,TACNA,otros_tramites,56
+2025-08-01,TARAPOTO,asociado_cambio_calidad,67
+2025-08-01,TARAPOTO,otros_tramites,52
+2025-08-01,TRUJILLO,asociado_cambio_calidad,266
+2025-08-01,TRUJILLO,otros_tramites,289
+2025-08-01,TUMBES,asociado_cambio_calidad,89
+2025-08-01,TUMBES,otros_tramites,25
+2025-09-01,AREQUIPA,asociado_cambio_calidad,189
+2025-09-01,AREQUIPA,otros_tramites,318
+2025-09-01,CHICLAYO,asociado_cambio_calidad,217
+2025-09-01,CHICLAYO,otros_tramites,133
+2025-09-01,CHIMBOTE,asociado_cambio_calidad,154
+2025-09-01,CHIMBOTE,otros_tramites,90
+2025-09-01,CUSCO,asociado_cambio_calidad,102
+2025-09-01,CUSCO,otros_tramites,113
+2025-09-01,HUANCAYO,asociado_cambio_calidad,71
+2025-09-01,HUANCAYO,otros_tramites,82
+2025-09-01,ICA,asociado_cambio_calidad,243
+2025-09-01,ICA,otros_tramites,192
+2025-09-01,ILO,asociado_cambio_calidad,31
+2025-09-01,ILO,otros_tramites,29
+2025-09-01,IQUITOS,asociado_cambio_calidad,128
+2025-09-01,IQUITOS,otros_tramites,36
+2025-09-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,158
+2025-09-01,JEFATURA ZONAL CALLAO,otros_tramites,225
+2025-09-01,LIMA,asociado_cambio_calidad,4210
+2025-09-01,LIMA,otros_tramites,5978
+2025-09-01,PIURA,asociado_cambio_calidad,288
+2025-09-01,PIURA,otros_tramites,133
+2025-09-01,PTO MALDON.,asociado_cambio_calidad,49
+2025-09-01,PTO MALDON.,otros_tramites,23
+2025-09-01,PUCALLPA,asociado_cambio_calidad,71
+2025-09-01,PUCALLPA,otros_tramites,123
+2025-09-01,PUNO,asociado_cambio_calidad,58
+2025-09-01,PUNO,otros_tramites,14
+2025-09-01,TACNA,asociado_cambio_calidad,86
+2025-09-01,TACNA,otros_tramites,74
+2025-09-01,TARAPOTO,asociado_cambio_calidad,63
+2025-09-01,TARAPOTO,otros_tramites,39
+2025-09-01,TRUJILLO,asociado_cambio_calidad,292
+2025-09-01,TRUJILLO,otros_tramites,288
+2025-09-01,TUMBES,asociado_cambio_calidad,106
+2025-09-01,TUMBES,otros_tramites,36
+2025-10-01,AREQUIPA,asociado_cambio_calidad,231
+2025-10-01,AREQUIPA,otros_tramites,228
+2025-10-01,CHICLAYO,asociado_cambio_calidad,230
+2025-10-01,CHICLAYO,otros_tramites,116
+2025-10-01,CHIMBOTE,asociado_cambio_calidad,166
+2025-10-01,CHIMBOTE,otros_tramites,106
+2025-10-01,CUSCO,asociado_cambio_calidad,107
+2025-10-01,CUSCO,otros_tramites,147
+2025-10-01,HUANCAYO,asociado_cambio_calidad,99
+2025-10-01,HUANCAYO,otros_tramites,72
+2025-10-01,ICA,asociado_cambio_calidad,279
+2025-10-01,ICA,otros_tramites,175
+2025-10-01,ILO,asociado_cambio_calidad,39
+2025-10-01,ILO,otros_tramites,27
+2025-10-01,IQUITOS,asociado_cambio_calidad,110
+2025-10-01,IQUITOS,otros_tramites,44
+2025-10-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,200
+2025-10-01,JEFATURA ZONAL CALLAO,otros_tramites,192
+2025-10-01,LIMA,asociado_cambio_calidad,4502
+2025-10-01,LIMA,otros_tramites,5470
+2025-10-01,PIURA,asociado_cambio_calidad,345
+2025-10-01,PIURA,otros_tramites,140
+2025-10-01,PTO MALDON.,asociado_cambio_calidad,73
+2025-10-01,PTO MALDON.,otros_tramites,27
+2025-10-01,PUCALLPA,asociado_cambio_calidad,98
+2025-10-01,PUCALLPA,otros_tramites,110
+2025-10-01,PUNO,asociado_cambio_calidad,61
+2025-10-01,PUNO,otros_tramites,12
+2025-10-01,TACNA,asociado_cambio_calidad,118
+2025-10-01,TACNA,otros_tramites,70
+2025-10-01,TARAPOTO,asociado_cambio_calidad,59
+2025-10-01,TARAPOTO,otros_tramites,40
+2025-10-01,TRUJILLO,asociado_cambio_calidad,325
+2025-10-01,TRUJILLO,otros_tramites,282
+2025-10-01,TUMBES,asociado_cambio_calidad,126
+2025-10-01,TUMBES,otros_tramites,30
+2025-11-01,AREQUIPA,asociado_cambio_calidad,200
+2025-11-01,AREQUIPA,otros_tramites,202
+2025-11-01,CHICLAYO,asociado_cambio_calidad,231
+2025-11-01,CHICLAYO,otros_tramites,107
+2025-11-01,CHIMBOTE,asociado_cambio_calidad,202
+2025-11-01,CHIMBOTE,otros_tramites,94
+2025-11-01,CUSCO,asociado_cambio_calidad,118
+2025-11-01,CUSCO,otros_tramites,96
+2025-11-01,HUANCAYO,asociado_cambio_calidad,75
+2025-11-01,HUANCAYO,otros_tramites,79
+2025-11-01,ICA,asociado_cambio_calidad,397
+2025-11-01,ICA,otros_tramites,174
+2025-11-01,ILO,asociado_cambio_calidad,31
+2025-11-01,ILO,otros_tramites,34
+2025-11-01,IQUITOS,asociado_cambio_calidad,120
+2025-11-01,IQUITOS,otros_tramites,25
+2025-11-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,211
+2025-11-01,JEFATURA ZONAL CALLAO,otros_tramites,188
+2025-11-01,LIMA,asociado_cambio_calidad,4575
+2025-11-01,LIMA,otros_tramites,5387
+2025-11-01,PIURA,asociado_cambio_calidad,312
+2025-11-01,PIURA,otros_tramites,141
+2025-11-01,PTO MALDON.,asociado_cambio_calidad,81
+2025-11-01,PTO MALDON.,otros_tramites,33
+2025-11-01,PUCALLPA,asociado_cambio_calidad,94
+2025-11-01,PUCALLPA,otros_tramites,102
+2025-11-01,PUNO,asociado_cambio_calidad,46
+2025-11-01,PUNO,otros_tramites,14
+2025-11-01,TACNA,asociado_cambio_calidad,154
+2025-11-01,TACNA,otros_tramites,62
+2025-11-01,TARAPOTO,asociado_cambio_calidad,50
+2025-11-01,TARAPOTO,otros_tramites,29
+2025-11-01,TRUJILLO,asociado_cambio_calidad,363
+2025-11-01,TRUJILLO,otros_tramites,273
+2025-11-01,TUMBES,asociado_cambio_calidad,181
+2025-11-01,TUMBES,otros_tramites,29
+2025-12-01,AREQUIPA,asociado_cambio_calidad,233
+2025-12-01,AREQUIPA,otros_tramites,228
+2025-12-01,CHICLAYO,asociado_cambio_calidad,325
+2025-12-01,CHICLAYO,otros_tramites,129
+2025-12-01,CHIMBOTE,asociado_cambio_calidad,228
+2025-12-01,CHIMBOTE,otros_tramites,82
+2025-12-01,CUSCO,asociado_cambio_calidad,98
+2025-12-01,CUSCO,otros_tramites,94
+2025-12-01,HUANCAYO,asociado_cambio_calidad,81
+2025-12-01,HUANCAYO,otros_tramites,50
+2025-12-01,ICA,asociado_cambio_calidad,403
+2025-12-01,ICA,otros_tramites,215
+2025-12-01,ILO,asociado_cambio_calidad,39
+2025-12-01,ILO,otros_tramites,24
+2025-12-01,IQUITOS,asociado_cambio_calidad,83
+2025-12-01,IQUITOS,otros_tramites,28
+2025-12-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,235
+2025-12-01,JEFATURA ZONAL CALLAO,otros_tramites,229
+2025-12-01,LIMA,asociado_cambio_calidad,6593
+2025-12-01,LIMA,otros_tramites,5809
+2025-12-01,PIURA,asociado_cambio_calidad,452
+2025-12-01,PIURA,otros_tramites,133
+2025-12-01,PTO MALDON.,asociado_cambio_calidad,51
+2025-12-01,PTO MALDON.,otros_tramites,30
+2025-12-01,PUCALLPA,asociado_cambio_calidad,120
+2025-12-01,PUCALLPA,otros_tramites,127
+2025-12-01,PUNO,asociado_cambio_calidad,67
+2025-12-01,PUNO,otros_tramites,11
+2025-12-01,TACNA,asociado_cambio_calidad,117
+2025-12-01,TACNA,otros_tramites,63
+2025-12-01,TARAPOTO,asociado_cambio_calidad,59
+2025-12-01,TARAPOTO,otros_tramites,35
+2025-12-01,TRUJILLO,asociado_cambio_calidad,430
+2025-12-01,TRUJILLO,otros_tramites,288
+2025-12-01,TUMBES,asociado_cambio_calidad,157
+2025-12-01,TUMBES,otros_tramites,33
+2026-01-01,AREQUIPA,asociado_cambio_calidad,179
+2026-01-01,AREQUIPA,otros_tramites,274
+2026-01-01,CHICLAYO,asociado_cambio_calidad,173
+2026-01-01,CHICLAYO,otros_tramites,117
+2026-01-01,CHIMBOTE,asociado_cambio_calidad,101
+2026-01-01,CHIMBOTE,otros_tramites,91
+2026-01-01,CUSCO,asociado_cambio_calidad,110
+2026-01-01,CUSCO,otros_tramites,127
+2026-01-01,HUANCAYO,asociado_cambio_calidad,48
+2026-01-01,HUANCAYO,otros_tramites,62
+2026-01-01,ICA,asociado_cambio_calidad,152
+2026-01-01,ICA,otros_tramites,197
+2026-01-01,ILO,asociado_cambio_calidad,35
+2026-01-01,ILO,otros_tramites,27
+2026-01-01,IQUITOS,asociado_cambio_calidad,85
+2026-01-01,IQUITOS,otros_tramites,33
+2026-01-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,131
+2026-01-01,JEFATURA ZONAL CALLAO,otros_tramites,257
+2026-01-01,LIMA,asociado_cambio_calidad,2552
+2026-01-01,LIMA,otros_tramites,6048
+2026-01-01,PIURA,asociado_cambio_calidad,225
+2026-01-01,PIURA,otros_tramites,142
+2026-01-01,PTO MALDON.,asociado_cambio_calidad,43
+2026-01-01,PTO MALDON.,otros_tramites,21
+2026-01-01,PUCALLPA,asociado_cambio_calidad,95
+2026-01-01,PUCALLPA,otros_tramites,115
+2026-01-01,PUNO,asociado_cambio_calidad,42
+2026-01-01,PUNO,otros_tramites,17
+2026-01-01,TACNA,asociado_cambio_calidad,132
+2026-01-01,TACNA,otros_tramites,55
+2026-01-01,TARAPOTO,asociado_cambio_calidad,46
+2026-01-01,TARAPOTO,otros_tramites,30
+2026-01-01,TRUJILLO,asociado_cambio_calidad,248
+2026-01-01,TRUJILLO,otros_tramites,290
+2026-01-01,TUMBES,asociado_cambio_calidad,112
+2026-01-01,TUMBES,otros_tramites,46
+2026-02-01,AREQUIPA,asociado_cambio_calidad,161
+2026-02-01,AREQUIPA,otros_tramites,219
+2026-02-01,CHICLAYO,asociado_cambio_calidad,202
+2026-02-01,CHICLAYO,otros_tramites,123
+2026-02-01,CHIMBOTE,asociado_cambio_calidad,100
+2026-02-01,CHIMBOTE,otros_tramites,94
+2026-02-01,CUSCO,asociado_cambio_calidad,112
+2026-02-01,CUSCO,otros_tramites,109
+2026-02-01,HUANCAYO,asociado_cambio_calidad,42
+2026-02-01,HUANCAYO,otros_tramites,69
+2026-02-01,ICA,asociado_cambio_calidad,194
+2026-02-01,ICA,otros_tramites,156
+2026-02-01,ILO,asociado_cambio_calidad,31
+2026-02-01,ILO,otros_tramites,29
+2026-02-01,IQUITOS,asociado_cambio_calidad,111
+2026-02-01,IQUITOS,otros_tramites,26
+2026-02-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,107
+2026-02-01,JEFATURA ZONAL CALLAO,otros_tramites,216
+2026-02-01,LIMA,asociado_cambio_calidad,2598
+2026-02-01,LIMA,otros_tramites,5352
+2026-02-01,PIURA,asociado_cambio_calidad,257
+2026-02-01,PIURA,otros_tramites,126
+2026-02-01,PTO MALDON.,asociado_cambio_calidad,52
+2026-02-01,PTO MALDON.,otros_tramites,36
+2026-02-01,PUCALLPA,asociado_cambio_calidad,79
+2026-02-01,PUCALLPA,otros_tramites,90
+2026-02-01,PUNO,asociado_cambio_calidad,40
+2026-02-01,PUNO,otros_tramites,15
+2026-02-01,TACNA,asociado_cambio_calidad,79
+2026-02-01,TACNA,otros_tramites,51
+2026-02-01,TARAPOTO,asociado_cambio_calidad,53
+2026-02-01,TARAPOTO,otros_tramites,42
+2026-02-01,TRUJILLO,asociado_cambio_calidad,226
+2026-02-01,TRUJILLO,otros_tramites,288
+2026-02-01,TUMBES,asociado_cambio_calidad,135
+2026-02-01,TUMBES,otros_tramites,35
+2026-03-01,AREQUIPA,asociado_cambio_calidad,216
+2026-03-01,AREQUIPA,otros_tramites,295
+2026-03-01,CHICLAYO,asociado_cambio_calidad,190
+2026-03-01,CHICLAYO,otros_tramites,125
+2026-03-01,CHIMBOTE,asociado_cambio_calidad,113
+2026-03-01,CHIMBOTE,otros_tramites,105
+2026-03-01,CUSCO,asociado_cambio_calidad,125
+2026-03-01,CUSCO,otros_tramites,117
+2026-03-01,HUANCAYO,asociado_cambio_calidad,47
+2026-03-01,HUANCAYO,otros_tramites,65
+2026-03-01,ICA,asociado_cambio_calidad,149
+2026-03-01,ICA,otros_tramites,155
+2026-03-01,ILO,asociado_cambio_calidad,25
+2026-03-01,ILO,otros_tramites,25
+2026-03-01,IQUITOS,asociado_cambio_calidad,121
+2026-03-01,IQUITOS,otros_tramites,55
+2026-03-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,161
+2026-03-01,JEFATURA ZONAL CALLAO,otros_tramites,196
+2026-03-01,LIMA,asociado_cambio_calidad,2587
+2026-03-01,LIMA,otros_tramites,5976
+2026-03-01,PIURA,asociado_cambio_calidad,277
+2026-03-01,PIURA,otros_tramites,130
+2026-03-01,PTO MALDON.,asociado_cambio_calidad,40
+2026-03-01,PTO MALDON.,otros_tramites,25
+2026-03-01,PUCALLPA,asociado_cambio_calidad,112
+2026-03-01,PUCALLPA,otros_tramites,104
+2026-03-01,PUNO,asociado_cambio_calidad,65
+2026-03-01,PUNO,otros_tramites,19
+2026-03-01,TACNA,asociado_cambio_calidad,105
+2026-03-01,TACNA,otros_tramites,47
+2026-03-01,TARAPOTO,asociado_cambio_calidad,61
+2026-03-01,TARAPOTO,otros_tramites,48
+2026-03-01,TRUJILLO,asociado_cambio_calidad,190
+2026-03-01,TRUJILLO,otros_tramites,293
+2026-03-01,TUMBES,asociado_cambio_calidad,112
+2026-03-01,TUMBES,otros_tramites,33
+2026-04-01,AREQUIPA,asociado_cambio_calidad,168
+2026-04-01,AREQUIPA,otros_tramites,262
+2026-04-01,CHICLAYO,asociado_cambio_calidad,266
+2026-04-01,CHICLAYO,otros_tramites,125
+2026-04-01,CHIMBOTE,asociado_cambio_calidad,114
+2026-04-01,CHIMBOTE,otros_tramites,89
+2026-04-01,CUSCO,asociado_cambio_calidad,112
+2026-04-01,CUSCO,otros_tramites,129
+2026-04-01,HUANCAYO,asociado_cambio_calidad,44
+2026-04-01,HUANCAYO,otros_tramites,63
+2026-04-01,ICA,asociado_cambio_calidad,167
+2026-04-01,ICA,otros_tramites,159
+2026-04-01,ILO,asociado_cambio_calidad,28
+2026-04-01,ILO,otros_tramites,32
+2026-04-01,IQUITOS,asociado_cambio_calidad,139
+2026-04-01,IQUITOS,otros_tramites,58
+2026-04-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,97
+2026-04-01,JEFATURA ZONAL CALLAO,otros_tramites,151
+2026-04-01,LIMA,asociado_cambio_calidad,2120
+2026-04-01,LIMA,otros_tramites,4968
+2026-04-01,PIURA,asociado_cambio_calidad,294
+2026-04-01,PIURA,otros_tramites,119
+2026-04-01,PTO MALDON.,asociado_cambio_calidad,82
+2026-04-01,PTO MALDON.,otros_tramites,17
+2026-04-01,PUCALLPA,asociado_cambio_calidad,119
+2026-04-01,PUCALLPA,otros_tramites,99
+2026-04-01,PUNO,asociado_cambio_calidad,50
+2026-04-01,PUNO,otros_tramites,19
+2026-04-01,TACNA,asociado_cambio_calidad,83
+2026-04-01,TACNA,otros_tramites,55
+2026-04-01,TARAPOTO,asociado_cambio_calidad,58
+2026-04-01,TARAPOTO,otros_tramites,44
+2026-04-01,TRUJILLO,asociado_cambio_calidad,162
+2026-04-01,TRUJILLO,otros_tramites,229
+2026-04-01,TUMBES,asociado_cambio_calidad,96
+2026-04-01,TUMBES,otros_tramites,31
+2026-05-01,AREQUIPA,asociado_cambio_calidad,177
+2026-05-01,AREQUIPA,otros_tramites,272
+2026-05-01,CHICLAYO,asociado_cambio_calidad,257
+2026-05-01,CHICLAYO,otros_tramites,124
+2026-05-01,CHIMBOTE,asociado_cambio_calidad,98
+2026-05-01,CHIMBOTE,otros_tramites,70
+2026-05-01,CUSCO,asociado_cambio_calidad,109
+2026-05-01,CUSCO,otros_tramites,125
+2026-05-01,HUANCAYO,asociado_cambio_calidad,52
+2026-05-01,HUANCAYO,otros_tramites,54
+2026-05-01,ICA,asociado_cambio_calidad,181
+2026-05-01,ICA,otros_tramites,168
+2026-05-01,ILO,asociado_cambio_calidad,30
+2026-05-01,ILO,otros_tramites,25
+2026-05-01,IQUITOS,asociado_cambio_calidad,96
+2026-05-01,IQUITOS,otros_tramites,38
+2026-05-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,127
+2026-05-01,JEFATURA ZONAL CALLAO,otros_tramites,161
+2026-05-01,LIMA,asociado_cambio_calidad,2050
+2026-05-01,LIMA,otros_tramites,5255
+2026-05-01,PIURA,asociado_cambio_calidad,245
+2026-05-01,PIURA,otros_tramites,120
+2026-05-01,PTO MALDON.,asociado_cambio_calidad,51
+2026-05-01,PTO MALDON.,otros_tramites,24
+2026-05-01,PUCALLPA,asociado_cambio_calidad,119
+2026-05-01,PUCALLPA,otros_tramites,93
+2026-05-01,PUNO,asociado_cambio_calidad,49
+2026-05-01,PUNO,otros_tramites,18
+2026-05-01,TACNA,asociado_cambio_calidad,89
+2026-05-01,TACNA,otros_tramites,64
+2026-05-01,TARAPOTO,asociado_cambio_calidad,58
+2026-05-01,TARAPOTO,otros_tramites,49
+2026-05-01,TRUJILLO,asociado_cambio_calidad,193
+2026-05-01,TRUJILLO,otros_tramites,262
+2026-05-01,TUMBES,asociado_cambio_calidad,96
+2026-05-01,TUMBES,otros_tramites,32
+2026-06-01,AREQUIPA,asociado_cambio_calidad,169
+2026-06-01,AREQUIPA,otros_tramites,277
+2026-06-01,CHICLAYO,asociado_cambio_calidad,286
+2026-06-01,CHICLAYO,otros_tramites,139
+2026-06-01,CHIMBOTE,asociado_cambio_calidad,164
+2026-06-01,CHIMBOTE,otros_tramites,75
+2026-06-01,CUSCO,asociado_cambio_calidad,94
+2026-06-01,CUSCO,otros_tramites,103
+2026-06-01,HUANCAYO,asociado_cambio_calidad,28
+2026-06-01,HUANCAYO,otros_tramites,54
+2026-06-01,ICA,asociado_cambio_calidad,184
+2026-06-01,ICA,otros_tramites,161
+2026-06-01,ILO,asociado_cambio_calidad,24
+2026-06-01,ILO,otros_tramites,21
+2026-06-01,IQUITOS,asociado_cambio_calidad,147
+2026-06-01,IQUITOS,otros_tramites,41
+2026-06-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,81
+2026-06-01,JEFATURA ZONAL CALLAO,otros_tramites,152
+2026-06-01,LIMA,asociado_cambio_calidad,1895
+2026-06-01,LIMA,otros_tramites,5002
+2026-06-01,PIURA,asociado_cambio_calidad,269
+2026-06-01,PIURA,otros_tramites,132
+2026-06-01,PTO MALDON.,asociado_cambio_calidad,59
+2026-06-01,PTO MALDON.,otros_tramites,19
+2026-06-01,PUCALLPA,asociado_cambio_calidad,115
+2026-06-01,PUCALLPA,otros_tramites,86
+2026-06-01,PUNO,asociado_cambio_calidad,43
+2026-06-01,PUNO,otros_tramites,16
+2026-06-01,TACNA,asociado_cambio_calidad,81
+2026-06-01,TACNA,otros_tramites,63
+2026-06-01,TARAPOTO,asociado_cambio_calidad,59
+2026-06-01,TARAPOTO,otros_tramites,42
+2026-06-01,TRUJILLO,asociado_cambio_calidad,150
+2026-06-01,TRUJILLO,otros_tramites,219
+2026-06-01,TUMBES,asociado_cambio_calidad,98
+2026-06-01,TUMBES,otros_tramites,33
+2026-07-01,AREQUIPA,asociado_cambio_calidad,157
+2026-07-01,AREQUIPA,otros_tramites,238
+2026-07-01,CHICLAYO,asociado_cambio_calidad,229
+2026-07-01,CHICLAYO,otros_tramites,118
+2026-07-01,CHIMBOTE,asociado_cambio_calidad,142
+2026-07-01,CHIMBOTE,otros_tramites,90
+2026-07-01,CUSCO,asociado_cambio_calidad,90
+2026-07-01,CUSCO,otros_tramites,115
+2026-07-01,HUANCAYO,asociado_cambio_calidad,46
+2026-07-01,HUANCAYO,otros_tramites,46
+2026-07-01,ICA,asociado_cambio_calidad,164
+2026-07-01,ICA,otros_tramites,120
+2026-07-01,ILO,asociado_cambio_calidad,27
+2026-07-01,ILO,otros_tramites,42
+2026-07-01,IQUITOS,asociado_cambio_calidad,113
+2026-07-01,IQUITOS,otros_tramites,43
+2026-07-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,71
+2026-07-01,JEFATURA ZONAL CALLAO,otros_tramites,149
+2026-07-01,LIMA,asociado_cambio_calidad,749
+2026-07-01,LIMA,otros_tramites,4911
+2026-07-01,PIURA,asociado_cambio_calidad,267
+2026-07-01,PIURA,otros_tramites,131
+2026-07-01,PTO MALDON.,asociado_cambio_calidad,81
+2026-07-01,PTO MALDON.,otros_tramites,25
+2026-07-01,PUCALLPA,asociado_cambio_calidad,99
+2026-07-01,PUCALLPA,otros_tramites,77
+2026-07-01,PUNO,asociado_cambio_calidad,49
+2026-07-01,PUNO,otros_tramites,17
+2026-07-01,TACNA,asociado_cambio_calidad,94
+2026-07-01,TACNA,otros_tramites,67
+2026-07-01,TARAPOTO,asociado_cambio_calidad,61
+2026-07-01,TARAPOTO,otros_tramites,38
+2026-07-01,TRUJILLO,asociado_cambio_calidad,150
+2026-07-01,TRUJILLO,otros_tramites,219
+2026-07-01,TUMBES,asociado_cambio_calidad,97
+2026-07-01,TUMBES,otros_tramites,40
+2026-08-01,AREQUIPA,asociado_cambio_calidad,116
+2026-08-01,AREQUIPA,otros_tramites,215
+2026-08-01,CHICLAYO,asociado_cambio_calidad,154
+2026-08-01,CHICLAYO,otros_tramites,119
+2026-08-01,CHIMBOTE,asociado_cambio_calidad,65
+2026-08-01,CHIMBOTE,otros_tramites,64
+2026-08-01,CUSCO,asociado_cambio_calidad,75
+2026-08-01,CUSCO,otros_tramites,95
+2026-08-01,HUANCAYO,asociado_cambio_calidad,12
+2026-08-01,HUANCAYO,otros_tramites,37
+2026-08-01,ICA,asociado_cambio_calidad,49
+2026-08-01,ICA,otros_tramites,64
+2026-08-01,ILO,asociado_cambio_calidad,12
+2026-08-01,ILO,otros_tramites,12
+2026-08-01,IQUITOS,asociado_cambio_calidad,91
+2026-08-01,IQUITOS,otros_tramites,44
+2026-08-01,JEFATURA ZONAL CALLAO,asociado_cambio_calidad,32
+2026-08-01,JEFATURA ZONAL CALLAO,otros_tramites,145
+2026-08-01,LIMA,asociado_cambio_calidad,107
+2026-08-01,LIMA,otros_tramites,4183
+2026-08-01,PIURA,asociado_cambio_calidad,226
+2026-08-01,PIURA,otros_tramites,109
+2026-08-01,PTO MALDON.,asociado_cambio_calidad,40
+2026-08-01,PTO MALDON.,otros_tramites,19
+2026-08-01,PUCALLPA,asociado_cambio_calidad,27
+2026-08-01,PUCALLPA,otros_tramites,53
+2026-08-01,PUNO,asociado_cambio_calidad,7
+2026-08-01,PUNO,otros_tramites,17
+2026-08-01,TACNA,asociado_cambio_calidad,82
+2026-08-01,TACNA,otros_tramites,33
+2026-08-01,TARAPOTO,asociado_cambio_calidad,48
+2026-08-01,TARAPOTO,otros_tramites,44
+2026-08-01,TRUJILLO,asociado_cambio_calidad,62
+2026-08-01,TRUJILLO,otros_tramites,172
+2026-08-01,TUMBES,asociado_cambio_calidad,19
+2026-08-01,TUMBES,otros_tramites,29

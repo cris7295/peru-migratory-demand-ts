@@ -1,0 +1,74 @@
+tipo_tramite,sede,meses_observados,meses_en_ventana,meses_ausentes
+cambio_calidad,AREQUIPA,20,20,0
+cambio_calidad,CHICLAYO,20,20,0
+cambio_calidad,CHIMBOTE,20,20,0
+cambio_calidad,CUSCO,20,20,0
+cambio_calidad,HUANCAYO,20,20,0
+cambio_calidad,ICA,20,20,0
+cambio_calidad,ILO,20,20,0
+cambio_calidad,IQUITOS,20,20,0
+cambio_calidad,JEFATURA ZONAL CALLAO,20,20,0
+cambio_calidad,LIMA,20,20,0
+cambio_calidad,PIURA,20,20,0
+cambio_calidad,PTO MALDON.,20,20,0
+cambio_calidad,PUCALLPA,20,20,0
+cambio_calidad,PUNO,20,20,0
+cambio_calidad,TACNA,20,20,0
+cambio_calidad,TARAPOTO,20,20,0
+cambio_calidad,TRUJILLO,20,20,0
+cambio_calidad,TUMBES,20,20,0
+carnet_extranjeria,AREQUIPA,20,20,0
+carnet_extranjeria,CHICLAYO,20,20,0
+carnet_extranjeria,CHIMBOTE,20,20,0
+carnet_extranjeria,CUSCO,20,20,0
+carnet_extranjeria,HUANCAYO,20,20,0
+carnet_extranjeria,ICA,20,20,0
+carnet_extranjeria,ILO,20,20,0
+carnet_extranjeria,IQUITOS,20,20,0
+carnet_extranjeria,JEFATURA ZONAL CALLAO,20,20,0
+carnet_extranjeria,LIMA,20,20,0
+carnet_extranjeria,PIURA,20,20,0
+carnet_extranjeria,PTO MALDON.,20,20,0
+carnet_extranjeria,PUCALLPA,20,20,0
+carnet_extranjeria,PUNO,20,20,0
+carnet_extranjeria,TACNA,20,20,0
+carnet_extranjeria,TARAPOTO,20,20,0
+carnet_extranjeria,TRUJILLO,20,20,0
+carnet_extranjeria,TUMBES,20,20,0
+prorroga_residencia,A.I.J.CH.,20,20,0
+prorroga_residencia,AREQUIPA,20,20,0
+prorroga_residencia,CHICLAYO,20,20,0
+prorroga_residencia,CHIMBOTE,20,20,0
+prorroga_residencia,CUSCO,20,20,0
+prorroga_residencia,HUANCAYO,20,20,0
+prorroga_residencia,ICA,16,20,4
+prorroga_residencia,ILO,20,20,0
+prorroga_residencia,IQUITOS,20,20,0
+prorroga_residencia,JEFATURA ZONAL CALLAO,20,20,0
+prorroga_residencia,LIMA,20,20,0
+prorroga_residencia,PIURA,20,20,0
+prorroga_residencia,PTO MALDON.,20,20,0
+prorroga_residencia,PUCALLPA,20,20,0
+prorroga_residencia,PUNO,20,20,0
+prorroga_residencia,TACNA,20,20,0
+prorroga_residencia,TARAPOTO,20,20,0
+prorroga_residencia,TRUJILLO,20,20,0
+prorroga_residencia,TUMBES,20,20,0
+solicitud_visas,AREQUIPA,20,20,0
+solicitud_visas,CHICLAYO,20,20,0
+solicitud_visas,CHIMBOTE,11,20,9
+solicitud_visas,CUSCO,19,20,1
+solicitud_visas,HUANCAYO,18,20,2
+solicitud_visas,ICA,12,20,8
+solicitud_visas,ILO,8,20,12
+solicitud_visas,IQUITOS,19,20,1
+solicitud_visas,JEFATURA ZONAL CALLAO,9,20,11
+solicitud_visas,LIMA,20,20,0
+solicitud_visas,PIURA,16,20,4
+solicitud_visas,PTO MALDON.,18,20,2
+solicitud_visas,PUCALLPA,13,20,7
+solicitud_visas,PUNO,17,20,3
+solicitud_visas,TACNA,19,20,1
+solicitud_visas,TARAPOTO,15,20,5
+solicitud_visas,TRUJILLO,17,20,3
+solicitud_visas,TUMBES,8,20,12

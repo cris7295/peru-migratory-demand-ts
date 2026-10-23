@@ -1,14 +1,10 @@
-# notebooks/
+# Notebooks
 
-Aquí van los Jupyter notebooks: exploración de datos, pruebas de modelos, gráficos.
+Ejecutar en orden, desde la raíz del proyecto o la carpeta notebooks:
 
-Sugerencia de nombres, para que se entienda el orden de trabajo con solo mirar la lista de archivos:
+1. `01_exploracion_datos.ipynb`: carga estricta, cobertura y composición de originales.
+2. `02_panel_unificado.ipynb`: panel histórico y componentes de carné, con reconciliación.
+3. `03_eda_avanzado.ipynb`: estacionalidad por año, pruebas exploratorias y referencias predictivas.
 
-- `01_exploracion_datos.ipynb`
-- `02_panel_unificado.ipynb`
-- `03_prophet_prorroga_residencia.ipynb`
-- `04_prophet_cambio_calidad.ipynb`
-- ...
-
-Los notebooks son buenos para explorar y probar. El código que ya sabemos que funciona bien y
-se va a reutilizar se "gradúa" y se mueve a `src/` como funciones ordenadas.
+La fase 4 aún no está implementada. Los notebooks no declaran un ganador Prophet.
+Los cálculos reutilizables viven en `src/`; `python -m src.auditoria` exporta la evidencia.
